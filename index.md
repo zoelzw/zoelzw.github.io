@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my first ever personal website 
 
-You can use the [editor on GitHub](https://github.com/zoelzw/zoelzw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been thinking to make my own website, so here it is. I'm going to work on this a little bit everyday to shape it towards my vision. Ideally, this will be a place where I can summarize what I have done around Human Computer Interaction, including projects, reflection on readings and brainstorms. I also would like to build a habit of summarizing and reflecting on my readings. So, I might include some personal stuff as well. We will see :)
 
 ### Markdown
 
