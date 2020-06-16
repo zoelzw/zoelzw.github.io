@@ -2,3 +2,4 @@
 title: Welcome to Zoe's homepage 
 description: this is Zoe Liu's personal website.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
