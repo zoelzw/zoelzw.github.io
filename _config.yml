@@ -26,7 +26,8 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://zoelzw.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  zoelzw
-
+#add additional elements that are not included in minima 
+linkedin_username: zoeliunc
 # Build settings
 # Removed minima theme as it is a regular theme now 
 # theme: minima
