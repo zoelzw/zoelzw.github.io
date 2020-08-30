@@ -28,7 +28,8 @@ url: "https://zoelzw.github.io" # the base hostname & protocol for your site, e.
 github_username:  zoelzw
 
 # Build settings
-theme: minima
+# Removed minima theme as it is a regular theme now 
+# theme: minima
 plugins:
   - jekyll-feed
 
