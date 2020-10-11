@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Racing on The Sun -- Building the First 4-seater Solar Vehicle at NC State University  
-date: 2020-09-12 
+date: 2020-08-29 
 img: workflow.jpg # Add image post (optional)
 
 ---
