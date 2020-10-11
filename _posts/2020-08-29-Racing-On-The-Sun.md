@@ -2,7 +2,7 @@
 layout: post
 title: Racing on The Sun -- Building the First 4-seater Solar Vehicle at NC State University  
 date: 2020-08-29 
-img: workflow.jpg # Add image post (optional)
+
 
 ---
  
@@ -12,6 +12,10 @@ Growing up in a very competitive environment in China, "Faster, higher, stronger
 "Let's make something compelling that consumer actually wants to buy".
 
 The team leader Bryon told us about the car he envisioned I knew it would be a challenge upon a challenge. Teams in the American Solar Challenge spent years, even generations, to build solar-powered vehicles for the competition, and so it seemed to make a marketable solar car that could also compete even harder. While exciting, I couldn't help thinking it counterintuitive to build a 4-seater solar vehicle to compete when all the other contestants had planned to enter one-seaters made for speed. Hearing Bryon's vision was an important moment of awakening for me. Many people are obsessed with faster and stronger machines thinking those are the traits that make technology, and life great. What is the cost of this kind of thinking though, I wondered? Global warming, acid rain, and harms to human health were immediate and long-term effects of car exhausts and noises. 4.6 metric tons of carbon dioxide emissions per typical passenger vehicle multiplying 1.42 billion cars in the world, I was shocked by the environmental impact of traditional automobiles. I started to examine my teenage zeal and imagination for automation and machines. Like many other young people, speed, power, and victories all excited me. I used to enjoy watching people beefing up their muscle cars and having fun by consuming limited resources. And, my dream was to build stronger and more powerful engines and automation when I decided to study Electrical Engineering. With more readings, learnings, and discussions in the team, I quickly abandoned my teenage passion for flashy and more seemingly "ambitious" technology as well as my desire to win. No, a 4-wheel monster that runs faster by burning more gas was not as cool as a solar vehicle that went slow yet could illuminate new possibilities for solar power and automobiles. I raised my awareness of environmental issues and confirmed my sustainable belief. Finally, my teammates and I decided to bring solar vehicles off the track and to a broader audience by building a sustainable and consumer-friendly solar vehicle to inspire the public. 
+
+<iframe title='Cars produced' src='https://www.theworldcounts.com/embed/challenges/73?background_color=white&color=black&font_family=%22Helvetica+Neue%22%2C+Arial%2C+sans-serif&font_size=14' style='border: none' height='100' width='300'></iframe>
+
+
 
 Meanwhile, I start to challenge my understandings and believes in automation and machinery. Looking back, the First and Second Industrial Revolution was motivated by laissez-faire capitalism where privileged individuals eager to improve productivity and desire of more profits powered the process. Undeniably, they are remarkable events in human history, and machinery and industrialization have brought incredible advances in people's life. However, they have also brought pollution and widened the gap between rich and poor. I began to notice that countless investments had been made to make cars not only tools that transport but also symbols of wealth and privilege. In 2016, over 70 million passenger cars were produced in a single year, and millions of engineers were dedicated to pursuing the "faster, higher, stronger" dream by investing days and nights on these machines. Now we want the newest innovation, the latest technology, chasing it -- preordering it, racing it in competitions -- but are we not now just chasing it for the sake of chasing it? I made up my mind that I want to be an engineer who values the story and cause behind projects and technology.
 
