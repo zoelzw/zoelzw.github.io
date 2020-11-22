@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "The Magic Box"
-# date:   2018-06-16 19:20:33 +0200
+title:  "Magic Box"
+# author: Patrick Henry
+# date:   2019-10-18 10:20:35 +0200
 role: programmer
 skills: programming 
 description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?raw=true
-rating: 5
 ---
-
 
 <div class="row">
   <div class="col-md-6">

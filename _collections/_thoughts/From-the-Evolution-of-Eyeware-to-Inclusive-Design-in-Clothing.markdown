@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "The Magic Box"
-# date:   2018-06-16 19:20:33 +0200
+title:  "From the Evolution of Eyeware to Inclusive Design in Clothing"
+# date:   2020-06-16 19:20:33 +0200
 role: programmer
 skills: programming 
 description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
-image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?raw=true
+image: https://github.com/zoelzw/zoelzw/blob/master/assets/eyeware.jpg?raw=true
 rating: 5
 ---
 
