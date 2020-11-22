@@ -18,7 +18,7 @@ title: 刘子玮 / Ziwei Liu / Zoe
 email: ziweiliu@uchicago.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is Zoe's personal website. Thanks for visiting!
-baseurl: "/zoelzw" # the subpath of your site, e.g. /blog
+baseurl: "zoelzw.github.io" # the subpath of your site, e.g. /blog
 google_analytics: 'UA-131540516-1' # change this to your GA key
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 include: ["_pages"] 
