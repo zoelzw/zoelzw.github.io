@@ -5,7 +5,7 @@ title:  "Building a Slow Car"
 # role: programmer
 # skills: programming 
 description: Thoughts on building a slow car 
-image: https://github.com/zoelzw/zoelzw/blob/master/assets/car.jpg?raw=true
+image: https://github.com/zoelzw/zoelzw/blob/master/assets/solarcar.png?raw=true
 rating: 5
 ---
 Growing up in a very competitive environment in China, "Faster, higher, stronger", was my motto as a teenager, and I was obsessed with technology that enabled people to go beyond their limitations. For instance, I absolutely adored sports cars. The stylish look, the roar of engines, and the smart control systems made it a dream for me to work on related projects. Thus, I was excited to join Solar Pack, the first solar car team at NC State University, even though there were less than 10 people there and none of us had any experience building cars let alone a solar one. More surprisingly, we decided to trade off speed and build a 4-seater solar vehicle to compete in the American Solar Challenge, which was the biggest solar car race in North America. With surprises and excitement, this experience marked the start of my journey to explore the relationship between machines and humans.
