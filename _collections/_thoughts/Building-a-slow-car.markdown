@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: idea
 title:  "Building a Slow Car"
 # date:   2020-06-16 19:20:33 +0200
 # role: programmer
