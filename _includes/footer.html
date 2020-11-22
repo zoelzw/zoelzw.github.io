@@ -1,37 +1,12 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
+<div class="container p-5">
+  <div class="row media">
+    <!-- <div class="col-md-3">
+      <img src="https://www.simplek12.com/wp-content/uploads/2015/07/shutterstock_173128658.jpg" class="mr-3 w-100 rounded-circle"
+          style="-webkit-filter: grayscale(100%); filter: grayscale(100%);">
+    </div> -->
+    <!-- <div class="col-md-11 media-body">
+      <h1 class="text-left blog-footer-title">Hi, I'm {{ site.author }}!</h1>
+      <p class="text-left mt-2">{{ site.description }}</p>
+    </div> -->
   </div>
-
-</footer>
+</div>

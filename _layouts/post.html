@@ -1,9 +1,19 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-  {{ content }}
+<div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url({{ page.image }}); background-size: cover; height: 50vh; background-position:center;">
 </div>
+<div class="row">
+  <div class="col-md-4">
+    <p> <b>Role:</b> {{page.role}}</p>
+    <p> <b>Skills:</b> {{page.skills}}</p>
+  </div>
+  <div class="col-md-8">
+  <h1>{{ page.title }}</h1>
+    <p class="lead">{{ page.description }}</p>
+  </div>
+</div>
+<hr bordercolor = "lightgrey">
+<article class="container">
+  {{ content }}
+</article>
