@@ -5,7 +5,7 @@ title:  "Eyetracking2"
 # date:   2019-10-18 10:20:35 +0200
 role: Battery Technitian
 skills: programming 
-description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
+description: where do physical therapist look at during rehabilitation sessions for lower limb amputees?
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eyetracking2.png?raw=true
 ---
 

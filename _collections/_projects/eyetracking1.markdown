@@ -5,7 +5,7 @@ title:  "Eyetracking1"
 # date:   2019-10-18 10:20:35 +0200
 role: Battery Technitian
 skills: programming 
-description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
+description: using Tobii Pro eye tracker glasses to explore gaze differences between amputees and able-bodied people in terrain transitions 
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=true
 ---
 

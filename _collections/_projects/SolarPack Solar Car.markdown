@@ -5,7 +5,7 @@ title:  "SolarPack Solar Car"
 # date:   2019-10-18 10:20:35 +0200
 role: Battery Technitian
 skills: programming 
-description: ure, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
+description: developing fundations for a 4-seater solar vehicle
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=true
 ---
 

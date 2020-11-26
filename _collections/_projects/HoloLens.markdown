@@ -5,7 +5,7 @@ title:  "HoloLens"
 # date:   2019-10-18 10:20:35 +0200
 role: Battery Technitian
 skills: programming 
-description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
+description: In order to gauge the application of Mixed Reality in building safer and programmable obstacle training courses for rehabilitation, I compared people’s obstacle avoidance strategies in HoloLens-based Mixed Reality and in reality.
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 ---
 
