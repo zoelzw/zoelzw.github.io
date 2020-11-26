@@ -1,15 +1,22 @@
 ---
 layout: default
 ---
-<div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url({{ page.image }}); background-size: cover; height: 50vh; background-position:center;">
-</div>
+<!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url({{ page.image }}); background-size: cover; height: 50vh; background-position:center;">
+</div> -->
+<!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Temp.jpg?raw=true); background-size: cover; height: 50vh; background-position:center;">
+</div> -->
+<div class="jumbotron" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Temp.jpg?raw=true); background-size: cover; height: 50vh; background-position:center;">
+  <h1 class="col-md-8 mx-auto mb-8 d-flex justify-content-center text-light">{{ page.title }}</h1>
+  <!-- <p class="lead text-light">{{ page.description }}</p> -->
+</div><br>
 <div class="row">
   <div class="col-md-4">
-    <p> <b>Role:</b> {{page.role}}</p>
     <p> <b>Skills:</b> {{page.skills}}</p>
+    <p> <b>Collaborators:</b> {{page.collaborators}}</p>
+    
   </div>
   <div class="col-md-8">
-  <h1>{{ page.title }}</h1>
+  <!-- <h1>{{ page.title }}</h1> -->
     <p class="lead">{{ page.description }}</p>
   </div>
 </div>

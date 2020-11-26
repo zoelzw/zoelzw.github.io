@@ -6,7 +6,7 @@ title:  "Eyetracking2"
 role: Battery Technitian
 skills: programming 
 description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
-image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=true
+image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eyetracking2.png?raw=true
 ---
 
 <div class="row">
