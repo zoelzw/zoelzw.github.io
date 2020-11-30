@@ -1,13 +1,7 @@
 ---
 layout: research
 title:  "Gaze Fixation Comparisons Between Amputees and Able-bodied Individuals in Approaching Stairs and Level-ground Transitions: A Pilot Study"
-# author: Patrick Henry
-# date:   2019-10-18 10:20:35 +0200
-# role: Battery Technitian
-# skills:  experimental design, , 
-description: "Gaze Fixation Comparisons Between Amputees and Able-bodied Individuals in Approaching Stairs and Level-ground Transitions: A Pilot Study"
-# team: Minhan Li, Boxuan Zhong, Ziwei Liu, I-Chieh Lee, Bretta L. Fylstra, Edgar Lobaton and He Helen Huang. 
-# conf: IEEE EMBC 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2019
+description: Where do amputees look at when they approach to stairs? How can we use this information to prepare robotic prothesis for stairs?
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=true
 ---
 <div class="row">
