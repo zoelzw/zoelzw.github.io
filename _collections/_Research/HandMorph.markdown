@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: research
 title:  "HandMorph: a Passive Exoskeleton that Miniaturizes Grasp"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
-collaborators: Jun Nishida; 
-skills: programming 
 description: We engineered an exoskeleton, which we call HandMorph, that approximates the experience of having a smaller grasping range. 
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=true
 ---

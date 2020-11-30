@@ -1,10 +1,8 @@
 ---
-layout: post
+layout: research
 title:  "HoloLens"
 # author: Patrick Henry
-# date:   2019-10-18 10:20:35 +0200
-role: Battery Technitian
-skills: programming 
+
 description: In order to gauge the application of Mixed Reality in building safer and programmable obstacle training courses for rehabilitation, I compared people’s obstacle avoidance strategies in HoloLens-based Mixed Reality and in reality.
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 ---
