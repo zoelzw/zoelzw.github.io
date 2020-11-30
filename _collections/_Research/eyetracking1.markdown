@@ -13,7 +13,6 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
 <div class="row">
   <div class="col-md-4">
   <p>
-    
     <br> <b>Skills:</b> <br><br>
     programming (MATLAB, Tobii Pro SDK);<br>
     experimental design;<br>
