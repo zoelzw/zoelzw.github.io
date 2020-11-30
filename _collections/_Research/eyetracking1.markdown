@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: idea
 title:  "Gaze Fixation Comparisons Between Amputees and Able-bodied Individuals in Approaching Stairs and Level-ground Transitions: A Pilot Study"
 # date:   2019-10-18 
 description: Where do amputees look at when they approach to stairs? How can we use this information to prepare robotic prothesis for stairs?

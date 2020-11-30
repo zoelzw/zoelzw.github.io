@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: idea
 title:  "HandMorph: a Passive Exoskeleton that Miniaturizes Grasp"
 # author: Patrick Henry
 date:   2020-10-18 10:20:35 +0200

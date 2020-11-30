@@ -1,6 +1,6 @@
 <section class="row m-2">
     <div class="card-columns">
-      {% assign explorations = site.research | reverse | slice: 0, 6 %}
+      {% assign explorations = site.research | reverse | slice: 0, 10 %}
       {% for item in explorations %}
         <div class="card p-3 border-0 zoom">
           <img src="{{ item.image }}" class="card-img-top" alt="Image of {{ item.title }}">

@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: idea
 title:  "HoloLens"
 # author: Patrick Henry
 

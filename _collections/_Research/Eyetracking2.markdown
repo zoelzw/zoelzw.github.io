@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: idea
 title:  "Eyetracking2"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
