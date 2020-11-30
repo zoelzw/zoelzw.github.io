@@ -53,7 +53,7 @@ plugins:
 collections:
   projects:
     output: true
-  explorations:
+  research:
     output: true
   thoughts:
     output: true

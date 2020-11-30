@@ -1,6 +1,6 @@
 <section class="row m-2">
   <div class="card-columns">
-    {% assign projects = site.projects | reverse | slice: 0, 10 %}
+    {% assign projects = site.projects | reverse | slice: 0, 20 %}
     {% for item in projects %}
       <div class="card p-3 border-0 zoom">
         <img src="{{ item.image }}" class="card-img-top" alt="Image of {{ item.title }}">

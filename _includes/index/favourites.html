@@ -6,7 +6,7 @@
   </div>
 </div>
 
-{% assign posts= site.projects | concat: site.explorations| concat: site.thoughts %}
+{% assign posts= site.projects | concat: site.research| concat: site.thoughts %}
 {% assign top_posts = posts | sort: "rating" | reverse | slice: 0, 3 %}
 {% for post in top_posts %}
   <div class="card mb-3 border-0">
