@@ -1,6 +1,6 @@
 ---
 layout: idea
-title:  "HoloLens"
+title:  "HoloLens-based Augmented Reality Obstacle Avoidance Training Has Varying Impact on Individuals’ Obstacle Avoidance Strategies"
 # author: Patrick Henry
 
 description: In order to gauge the application of Mixed Reality in building safer and programmable obstacle training courses for rehabilitation, I compared people’s obstacle avoidance strategies in HoloLens-based Mixed Reality and in reality.
