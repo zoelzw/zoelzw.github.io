@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "network nightmares: creatively use VR in network security issues"
+title:  "🏆 Network Nightmares: creatively use VR in network security issues"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
 # role: Battery Technitian
 # skills: programming 
-description: A Google Cardboard application that simulates a Network Analyst's job as they track down a virus in the network.
+description: NC Triangle VR Hackathon Best Visual Design Prize (State Level Hackathon)
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNightmares.jpg?raw=true
 ---
 

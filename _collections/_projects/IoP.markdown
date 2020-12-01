@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "IoP"
+title:  "🏆 IoP: Internet of Tweeting Plants"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
 role: Battery Technitian
 skills: programming 
-description: description shajsdhakdhajk People always say that history repeats itself, and I think history also shines a light on the unknown future, or at least we can find some patterns from the past to guide ourselves in present recently watched Prof. Jessdajhdjh ad
+description: NC State Sustainability Innovation Challenge Make-A-Thon Best Social Media Prize (University-level Hackathon)
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
 ---
 
