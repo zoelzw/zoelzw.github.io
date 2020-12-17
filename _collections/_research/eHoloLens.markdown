@@ -8,7 +8,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 ---
 <div class="row">
   <div class="col-md-4">
-  <p>
+  <p class = "lead">
     <br> <b>Skills:</b> <br><br>
     <!-- experimental design;<br> -->
     research grant proposal writing; <br>

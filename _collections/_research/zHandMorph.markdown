@@ -8,7 +8,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 ---
 <div class="row">
   <div class="col-md-4">
-  <p>
+  <p class = "lead">
     <br> <b>Skills:</b> <br><br>
     <!-- experimental design;<br> -->
     data collection and analysis;<br>
@@ -39,6 +39,22 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 <hr bordercolor = "lightgrey">
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5o2wPy5hl0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
+<div class="row">
+  <div class="col-md-6">
+    <br>
+    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/hand0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
+  
+  <div class="col-md-6">
+    <br>
+    <h2>motivation</h2>
+    <p> 
+      Embodied interaction tells us that “how we understand the world, ourselves, and interaction comes from our location in a physical and social world”. Many researchers characterize it as moving interactions away from a screen and into the real world. Researchers have turned to wearable devices that enable users to experience the sense of having a different body, while in the real world. Examples include wearables that allow a user to see the world through the height of a smaller person via a waist mounted camera and a AR headset. While these wearables allow the user to look from the eyes of a smaller person, they do not allow the user to interact with objects through the hand of the smaller person. Unlike other size-illusions based on virtual reality, Hand- Morph achieves this in the user’s real environment, preserving the user’s physical and social contexts.
+    </p>
+  </div>
+</div>
+<hr bordercolor = "lightgrey">
 
 <div class="row">
   <div class="col-md-6">
@@ -49,13 +65,13 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
   
   <div class="col-md-6">
     <br>
-    <br>
-    <br>
+    <h2>Contribution</h2>
     <p> 
       In this project, I led series of user studies to test the usiability of the exoskeleton. And before this project, I have been exploring the subject of embodyment in a project that is in preparitions for a future submission and the following discussions.
     </p>
   </div>
 </div>
+<hr bordercolor = "lightgrey">
 
 <div class="row">
   <div class="col-md-6">
@@ -73,7 +89,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
-
+<hr bordercolor = "lightgrey">
 
 <div class="row">
   <div class="col-md-6">
