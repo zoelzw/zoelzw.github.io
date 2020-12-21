@@ -2,7 +2,7 @@
 layout: idea
 title:  "🏆 HandMorph: a Passive Exoskeleton that Miniaturizes Grasp"
 # author: Patrick Henry
-date:   2020-11-30 10:20:35 +0200
+date:   2020-10-20 10:20:35 +0200
 description: 2020 UIST Best Paper Award -- A Passive Exoskeleton that provides a unique spin on wearables to passively stimulate a child's hand while allowing wearers to interact with the physical world.
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=true
 ---
@@ -114,6 +114,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 
 <div class="row">
   <div class="col-md-6">
+    <br>
     <br>
     <p> 
       Maybe instead of us trying to adopt a wearable, how about a co-adopt system? 
