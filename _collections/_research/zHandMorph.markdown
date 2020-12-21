@@ -9,12 +9,13 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 <div class="row">
   <div class="col-md-4">
   <p class = "lead">
-    <br> <b>Skills:</b> <br><br>
+    <b>Skills:</b> <br>
     <!-- experimental design;<br> -->
-    data collection and analysis;<br>
-    research Paper writing;<br>
-    critical thinking;<br>
-    interpersonal skills
+    teamwork; <br>
+    interpersonal skills;<br>
+    research paper writing;<br>
+    critical thinking<br>
+    
   </p>
   </div>
   <div class="col-md-8">
@@ -41,16 +42,24 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 
 <div class="row">
   <div class="col-md-6">
-    <br>
     <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/hand0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">
     <br>
-    <h2>motivation</h2>
+    <h2>Motivation</h2>
     <p> 
-      Embodied interaction tells us that “how we understand the world, ourselves, and interaction comes from our location in a physical and social world”. Many researchers characterize it as moving interactions away from a screen and into the real world. Researchers have turned to wearable devices that enable users to experience the sense of having a different body, while in the real world. Examples include wearables that allow a user to see the world through the height of a smaller person via a waist mounted camera and a AR headset. While these wearables allow the user to look from the eyes of a smaller person, they do not allow the user to interact with objects through the hand of the smaller person. Unlike other size-illusions based on virtual reality, Hand- Morph achieves this in the user’s real environment, preserving the user’s physical and social contexts.
+      Embodied interaction tells us that “how we understand the world, ourselves, and interaction comes from our location in a physical and social world”. 
+    </p>
+    <p>
+      Researchers have turned to wearable devices that enable users to experience the sense of having a different body, such as size-illusions based on Virtual Reality. 
+    </p> 
+    <p>
+      Could we achieves this in the user’s real environment, preserving the user’s physical and social contexts? 
+    </p>
+    <p>
+      <i class="fa fa-chevron-right"></i> HandMorph, a passive exoskeleton that miniaturizes grasp, provides a unique spin on wearables to passively simulate a child's hand and offers adults a new grasp of empathy while they can still interact with the physical world. 
     </p>
   </div>
 </div>
@@ -67,7 +76,13 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
     <br>
     <h2>Contribution</h2>
     <p> 
-      In this project, I led series of user studies to test the usiability of the exoskeleton. And before this project, I have been exploring the subject of embodyment in a project that is in preparitions for a future submission and the following discussions.
+      In this project, I led the second user study to examine participants’ experiences with HandMorph and participated in paper writting. 
+    </p>
+    <p> 
+      To investigate whether HandMorph could assist in evaluating/designing products for people with smaller hands, I recruited eight participants to improve the design of a simple toy trumpet to be used by smaller persons, such as chil­dren (ages 3-10). 
+    </p>
+    <p> 
+      we found that they felt more confident in their simple toy designs when using HandMorph to test their design’s ergonomics.
     </p>
   </div>
 </div>
@@ -75,11 +90,17 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 
 <div class="row">
   <div class="col-md-6">
+  <br>
+    <h2>And beyond...</h2>
     <br>
-    <br>
-    <br>
+     <p> 
+      Embodiment has been widly discussed across the fields of Neuroscience, Rehabilitation, Psychology, Robotics, and so on. I am also very interested in the concept of embodying foreign objects since it may enable new paradiams in HCI. 
+    </p>
     <p> 
-      Can you embody someone/thing else? Embodiment has been widly discussed across the fields of Neuroscience, Rehabilitation, Psychology, Robotics, and so on. I am also very interested in the concept of embody foreign objects since it may enable a complete new paradiam in Human-Computer Interaction. For instance, Human-Computer Integration apply this concept to an extrem that the human body and machines become one. Will this be the future? I led a reading group with my colleague Jun Nishida to hear from the HCI Club at the University of Chicago.
+      For instance, Human Computer Integration apply this concept to an extrem that the human body and machines become one. Will this be the future? Is it possible to change our implicit social bias by putting ourselves in other people’s <s>shoes</s> bodies? 
+    </p>
+    <p> 
+      I led a reading group with my colleague Jun Nishida to review related literature and brianstorm with the HCI club at Uchicago. <a href="https://docs.google.com/document/d/1NCBNpC0st1C7V_l9gFCEBYUCEFTQTOyQkMSwn7YjU2E/edit?usp=sharing" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">More details</a> 
     </p>
   </div>
 
@@ -94,17 +115,20 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 <div class="row">
   <div class="col-md-6">
     <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/EMG-based%20HMI.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <p> 
+      Maybe instead of us trying to adopt a wearable, how about a co-adopt system? 
+    </p>
+    <p> 
+      I organized a gust talk from my former research advisor Dr. Helen Huang to discuss integration and co-adaptation of smart wearables and humans in neuromuscular rehabilitation. 
+    </p>
+    <p>     
+      Additionaly, my colleagues and I engineered and explored a wearable device with touch sensing and vibrotactile actuation based on a neuroscience principle for a future submission. More details can be found in the future. 
+    </p>
   </div>
-  
   <div class="col-md-6">
     <br>
-    <br>
-    <br>
-    <p> 
-      Maybe instead of us trying to adopt a wearable, how about a co-adopt system? After the discussion on Embodyment, I further studied the concept of integration and co-adaption in Rehabilitation. I invited my former research advior Dr. Helen Huang to give us a talk on this subject. 
-    </p>
+    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/EMG-based%20HMI.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
 <!-- <br>
