@@ -14,7 +14,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
     experimental design;<br>
     data collection and analysis;<br>
     research paper writing;<br>
-    interpersonal skills
+    problem solving
   </p>
   </div>
   <div class="col-md-8">

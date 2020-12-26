@@ -9,21 +9,22 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 <div class="row">
   <div class="col-md-4">
   <p class = "lead">
-    <br> <b>Skills:</b> <br><br>
-    <!-- experimental design;<br> -->
-    research grant proposal writing; <br>
-    data collection and analysis;<br>
-    research Paper writing;<br>
-    critical thinking;<br>
-    interpersonal skills
+  <b>Skills:</b> <br>
+    independent research;<br>
+    Mixed Reality design;<br>
+    experimental design;<br>
+    software development;<br>
+    biomechanical data collection and analysis (Vicon Motion Capture, Visual 3D, MATLAB);<br>
+    public speaking and presentation
   </p>
   </div>
   <div class="col-md-8">
-  <!-- <h1>{{ page.title }}</h1> -->
     <p class="lead">HoloLens-based Augmented Reality Obstacle Avoidance Training Has Varying Impact on Individuals’ Obstacle Avoidance Strategies<br>
     <br> <strong>Ziwei Liu</strong>,  Stephanie Huang, Ming Liu, He Helen Huang.
     <br><i>BMES Biomedical Engineering Society Annual Meeting</i>, 2018
     </p>
+    <p class="lead">- NC State University Undergraduate Research Grant</p>
+    <p class="lead">- NC State University Undergraduate Research travel award</p>
   </div>
 </div>
 <hr bordercolor = "lightgrey">
@@ -36,10 +37,6 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
   </div>
 </div>
 <hr bordercolor = "lightgrey">
-
-
-
-
 
 <div class="row">
   <div class="col-md-6">
