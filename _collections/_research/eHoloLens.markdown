@@ -70,10 +70,10 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
     <br>
     <h2>Contribution</h2>
     <p> 
-      This was an independent research project as well as a journey for me to go through the whole research process from grant proposal writing to final presentation. The experience was fundamental for me to understand how to face setbacks and research questions rigorously and efficiently. Most importantly, I learned how to formulate my ideas into impactful research.
+      I initiated the project idea and went through rounds of literature review and MR design. I participated in IRB writing and gained financial support from the OUR office. I also independently designed and conducted experiments with six able-bodied subjects using HoloLens and Vicon motion capture system. 
     </p>
     <p> 
-      I initiated the project idea and went through rounds of literature review and MR design. I participated in IRB writing and gained financial support from the OUR office. I also independently designed and conducted experiments with six able-bodied subjects using HoloLens and Vicon motion capture system. Lastly, I overcame challenges in biomechanical data analysis using MATLAB and presented the findings in a national conference. 
+      Lastly, I overcame challenges in biomechanical data analysis using MATLAB and presented the findings in 2018 BMES conference. 
     </p>
     <p> 
       We found that subjects tend to walk more consistently across trials for the physical obstacle condition compared to the AR obstacle condition. HoloLens-based Augmented Reality Obstacle Avoidance Training Has Varying Impact on Individuals’ Obstacle Avoidance Strategies.
@@ -88,20 +88,18 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
     <h2>And beyond...</h2>
     <br>
      <p> 
-      Embodiment has been widly discussed across the fields of Neuroscience, Rehabilitation, Psychology, Robotics, and so on. I am also very interested in the concept of embodying foreign objects since it may enable new paradiams in HCI. 
+      This was an independent research project as well as a journey for me to go through the whole research process from grant proposal writing to final presentation. 
     </p>
     <p> 
-      For instance, Human Computer Integration apply this concept to an extrem that the human body and machines become one. Will this be the future? Is it possible to change our implicit social bias by putting ourselves in other people’s <s>shoes</s> bodies? 
+      The experience was fundamental for me to understand how to face setbacks and research questions rigorously and efficiently. Most importantly, I learned how to formulate my ideas into impactful research.
     </p>
     <p> 
-      I led a reading group with my colleague Jun Nishida to review related literature and brianstorm with the HCI club at Uchicago. <a href="https://docs.google.com/document/d/1NCBNpC0st1C7V_l9gFCEBYUCEFTQTOyQkMSwn7YjU2E/edit?usp=sharing" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">More details</a> 
+      I received many interesting and challenging questions during the poster sessions. Some people expressed their excitement about emerging technologies, while others showed their concerns. All the feedbacks inspired me to search for effective Human Computer Interaction that augments human performance and experiences. 
     </p>
   </div>
 
   <div class="col-md-6">
     <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/HoloLens1.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
-<hr bordercolor = "lightgrey">
