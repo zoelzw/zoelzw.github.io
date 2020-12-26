@@ -82,7 +82,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
       To investigate whether HandMorph could assist in evaluating/designing products for people with smaller hands, I recruited eight participants to improve the design of a simple toy trumpet to be used by smaller persons, such as chil­dren (ages 3-10). 
     </p>
     <p> 
-      we found that they felt more confident in their simple toy designs when using HandMorph to test their design’s ergonomics.
+      We found that they felt more confident in their simple toy designs when using HandMorph to test their design’s ergonomics.
     </p>
   </div>
 </div>
