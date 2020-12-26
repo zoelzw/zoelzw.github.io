@@ -1,8 +1,7 @@
 ---
 layout: idea
 title:  "HoloLens-based Augmented Reality Obstacle Avoidance Training Has Varying Impact on Individuals’ Obstacle Avoidance Strategies"
-# author: Patrick Henry
-
+date:  2018-06-12
 description: In order to gauge the application of Mixed Reality in building safer and programmable obstacle training courses for rehabilitation, I compared people’s obstacle avoidance strategies in HoloLens-based Mixed Reality and in reality.
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 ---
@@ -32,7 +31,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 <div class="row">
   <div class="col-md-12">
     <div class="d-flex justify-content-center embed-responsive embed-responsive-16by9">
-       <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/holo3.png?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
+       <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/holo3.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
     </div>
   </div>
 </div>
@@ -40,8 +39,29 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 
 <div class="row">
   <div class="col-md-6">
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Holo0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
+  
+  <div class="col-md-6">
     <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
+    <h2>Motivation</h2>
+    <p> 
+      Obstacle Avoidance training is widely used in the rehabilitation of patients with mobility limitations. However, this training is limited in clinical environments due to difficulty to generate training courses and potential risks related to the training procedure.
+    </p>
+    <p>
+      To overcome these problems, many researchers introduced XR (Virtual Reality, Augmented Reality, and Mixed Reality) technology to the training. For example, Microsoft HoloLens was used to generate an obstacle crossing system for gait rehabilitation of amputee and stroke patients. However, it is still unknown whether the HoloLens based AR has a potential influence on obstacle avoidance training results. 
+    </p> 
+    <p>
+      <i class="fa fa-chevron-right"></i> The purpose of this study is to evaluate whether the AR obstacle crossing training affects subjects’ obstacle avoidance strategy compared with their strategies used in a physical obstacle crossing training.
+    </p>
+  </div>
+</div>
+<hr bordercolor = "lightgrey">
+
+
+<div class="row">
+  <div class="col-md-6">
+    <br>
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/holo1.PNG?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
   </div>
   
@@ -50,7 +70,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
     <br>
     <br>
     <p> 
-       Obstacle Avoidance training is widely used in the rehabilitation of patients with mobility limitations. However, this training is limited in clinical environments due to difficulty to generate training courses and potential risks related to the training procedure. To overcome these problems, many researchers introduced XR (Virtual Reality, Augmented Reality, and Mixed Reality) technology to the training. For example, Microsoft HoloLens was used to generate an obstacle crossing system for gait rehabilitation of amputee and stroke patients. However, it is still unknown whether the HoloLens based AR has a potential influence on obstacle avoidance training results. The purpose of this study is to evaluate whether the AR obstacle crossing training affects subjects’ obstacle avoidance strategy compared with their strategies used in a physical obstacle crossing training.
+        
     </p>
   </div>
 </div>

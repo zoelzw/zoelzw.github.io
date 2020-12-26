@@ -42,7 +42,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
       Where do amputees look when they approach stairs? What can we do with this information to design a co-adaptation system for amputees and robotic prothesis? 
     </p>
      <p> 
-      This paper aims to investigate the visual strategy of transtibial amputees while they are approaching the transition between level-ground and stairs and compare it with that of able-bodied individuals. To this end, we conducted a pilot study where two transtibial amputee subjects and two able-bodied subjects transitioned from level-ground to stairs and vice versa while wearing eye tracking glasses to record gaze fixations.
+      <i class="fa fa-chevron-right"></i> This paper aims to investigate the visual strategy of transtibial amputees while they are approaching the transition between level-ground and stairs and compare it with that of able-bodied individuals. To this end, we conducted a pilot study where two transtibial amputee subjects and two able-bodied subjects transitioned from level-ground to stairs and vice versa while wearing eye tracking glasses to record gaze fixations.
     </p>
   </div>
 </div>
