@@ -81,6 +81,9 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
     <p> 
       I particularly enjoyed working with amputee participants and learning their feedbacks on Assistive Technology and emerging technologies such as eye-tracking. 
     </p>
+    <p> 
+       I was also fascinated by how much information can be conveyed by gaze and fixation patterns. I conducted another pilot study using eye-tracking technology. <a href="https://zoelzw.github.io/research/Eyetracking2.html" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">More details</a> 
+    </p>
   </div>
 
   <div class="col-md-6">
