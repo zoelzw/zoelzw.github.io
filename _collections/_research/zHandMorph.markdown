@@ -15,7 +15,6 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
     interpersonal skills;<br>
     research paper writing;<br>
     critical thinking<br>
-    
   </p>
   </div>
   <div class="col-md-8">

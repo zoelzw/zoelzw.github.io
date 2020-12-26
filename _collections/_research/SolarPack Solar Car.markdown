@@ -10,13 +10,13 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
 ---
 <div class="row">
   <div class="col-md-4">
-  <p class="lead">
-    <br> <b>Skills:</b> <br><br>
-    programming (MATLAB Simulink);<br>
-    Control System;<br>
-    PCB Design;<br>
-    research Paper writing;<br>
-    interpersonal skills
+  <p class = "lead">
+    <b>Skills:</b> <br>
+    <!-- experimental design;<br> -->
+    PCB design and prototyping; <br>
+    problem solving;<br>
+    control system design;<br>
+    Orion Battery Management System; <br> 
   </p>
   </div>
   <div class="col-md-8">
