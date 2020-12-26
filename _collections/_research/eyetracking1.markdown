@@ -1,18 +1,18 @@
 ---
 layout: idea
 title:  "Gaze Fixation Comparisons Between Amputees and Able-bodied Individuals in Approaching Stairs and Level-ground Transitions: A Pilot Study"
-# date:   2019-10-18 
+date:   2019-06-23 
 description: Where do amputees look at when they approach to stairs? How can we use this information to prepare robotic prothesis for stairs?
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=true
 ---
 <div class="row">
   <div class="col-md-4">
   <p class = "lead">
-    <br> <b>Skills:</b> <br><br>
+    <b>Skills:</b> <br>
     programming (MATLAB, Tobii Pro SDK);<br>
     experimental design;<br>
     data collection and analysis;<br>
-    research Paper writing;<br>
+    research paper writing;<br>
     interpersonal skills
   </p>
   </div>
@@ -28,16 +28,17 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
 
 <div class="row">
   <div class="col-md-6">
-    <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eye0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">
     <br>
-    <h2>motivation</h2>
+    <h2>Motivation</h2>
     <p> 
       where do amputees look at when they approach to stairs? What can we do with this information to design a co-adapation system for amputees and robotic prothesis?
+    </p>
+    <p>
+      This paper aims to investigate the visual strategy of transtibial amputees while they are approaching the tran- sition between level-ground and stairs and compare it with that of able-bodied individuals.
     </p>
   </div>
 </div>
