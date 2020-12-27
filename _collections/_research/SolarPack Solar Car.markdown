@@ -16,7 +16,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
     PCB design and prototyping; <br>
     problem solving;<br>
     control system design;<br>
-    Orion Battery Management System; <br> 
+    Orion Battery Management System <br> 
   </p>
   </div>
   <div class="col-md-8">
@@ -81,20 +81,18 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
     <h2>And beyond...</h2>
     <br>
      <p> 
-      Embodiment has been widly discussed across the fields of Neuroscience, Rehabilitation, Psychology, Robotics, and so on. I am also very interested in the concept of embodying foreign objects since it may enable new paradiams in HCI. 
+       With the development of technology, our relationship with it is no longer only "tool use." What would be the "best" dynamic to use technology to unlock the potential of humans? For instance, how can we use the power of technology to help marginalized populations instead of using it as capital to serve the privileged? How can we sustainably use technology? 
     </p>
     <p> 
-      For instance, Human Computer Integration apply this concept to an extrem that the human body and machines become one. Will this be the future? Is it possible to change our implicit social bias by putting ourselves in other people’s <s>shoes</s> bodies? 
+      To attempt to answer my own questions, I worked with people with disabilities and learned about their needs and opinions on emerging technologies. I also worked on several projects related to sustainability in hackathons.
     </p>
     <p> 
-      I led a reading group with my colleague Jun Nishida to review related literature and brianstorm with the HCI club at Uchicago. <a href="https://docs.google.com/document/d/1NCBNpC0st1C7V_l9gFCEBYUCEFTQTOyQkMSwn7YjU2E/edit?usp=sharing" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">More details</a> 
+      If you are interested, here are <a href="https://zoelzw.github.io/thoughts/Building-a-slow-car.html" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">some thoughts</a> related to this research experience. I am also curious about what others think, so feel free to <a href="mailto:ziweiliu@uchicago.edu" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">write to me.</a> 
     </p>
   </div>
 
   <div class="col-md-6">
     <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/solar4.JPG?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
-<hr bordercolor = "lightgrey">
