@@ -37,11 +37,9 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
   </div>
 </div>
 <hr bordercolor = "lightgrey">
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/5o2wPy5hl0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 <div class="row">
   <div class="col-md-6">
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/hand0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
