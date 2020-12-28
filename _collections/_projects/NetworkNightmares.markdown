@@ -9,16 +9,13 @@ description: NC Triangle VR Hackathon Best Visual Design Prize (State Level Hack
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNightmares.jpg?raw=true
 ---
 <div class="row">
-  <div class="col-md-6">
-    <p>Jean-Paul Marat</p>
+  <div class="col-md-3">
+    <br>
+    <h5>Overview</h5>
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/grunge.png?raw=true"/>
-    
-    <!-- <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/grunge.png?raw=true" alt="" class="line"> -->
   </div>
   
-  <div class="col-md-6">
-    <br>
-    <h2>Motivation</h2>
+  <div class="col-md-9">
     <p> 
       Obstacle Avoidance training is widely used in the rehabilitation of patients with mobility limitations. However, this training is limited in clinical environments due to difficulty to generate training courses and potential risks related to the training procedure.
     </p>
