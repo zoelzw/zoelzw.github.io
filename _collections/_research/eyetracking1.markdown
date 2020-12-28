@@ -58,13 +58,13 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
     <br>
     <h2>Contribution</h2>
     <p> 
-      I worked as a Research Assistant throughout this project, including experimental design, data collection and analysis, and paper writing. I particularly enjoyed working with amputee participants and learning their feedbacks on Assistive Technology and emerging technologies such as eye tracking. 
+      I worked as a Research Assistant throughout this project, including experimental design, data collection and analysis, and paper writing. 
     </p>
     <p>
       I learned about Tobii Pro Glasses 2 and Tobii Eye Tracking SDK and led data processing using Tobii Pro Lab software. I also learned how to illustrate key concepts and results in this study using Adobe Illustrator and MATLAB. 
     </p>
     <p> 
-      This study has shown different visual strategies are used between transtibial amputees and able-bodied popula- tions when they were approaching stairs and level-ground transitions. Transtibial amputees show more dependence on their vision to perform challenging locomotor tasks.
+      This study has shown different visual strategies are used between transtibial amputees and able-bodied populations when they were approaching stairs and level-ground transitions. Transtibial amputees show more dependence on their vision to perform challenging locomotor tasks.
     </p>
   </div>
 </div>
