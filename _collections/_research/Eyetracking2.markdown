@@ -52,8 +52,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eyetracking
 
 <div class="row">
   <div class="col-md-6">
-    <br>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/HandExp.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait.gif?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">
