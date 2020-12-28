@@ -11,7 +11,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNigh
 <div class="row">
   <div class="col-md-6">
     <p>Jean-Paul Marat</p>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/grunge.png?raw=true" style='height: 80%; width: 50%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/grunge.png?raw=true"/>
     
     <!-- <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/grunge.png?raw=true" alt="" class="line"> -->
   </div>
