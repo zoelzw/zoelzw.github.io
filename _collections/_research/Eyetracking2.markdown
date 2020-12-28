@@ -5,7 +5,7 @@ title:  "Influence of Experience on Eye Gaze Patterns and Identification of Norm
 # date:   2019-10-18 10:20:35 +0200
 
 description: where do physical therapist look at during rehabilitation sessions for lower limb amputees?
-image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eyetracking2.png?raw=true
+image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?raw=true
 ---
 <div class="row">
   <div class="col-md-4">
@@ -89,6 +89,6 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eyetracking
 
   <div class="col-md-6">
     <br>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
