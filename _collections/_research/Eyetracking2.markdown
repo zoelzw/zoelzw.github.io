@@ -51,8 +51,10 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?r
 <hr bordercolor = "lightgrey">
 
 <div class="row">
+
   <div class="col-md-6">
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <br>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?raw=true" style='height: 85%; width: 85%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">
