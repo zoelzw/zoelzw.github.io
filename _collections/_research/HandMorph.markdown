@@ -65,7 +65,6 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 <div class="row">
   <div class="col-md-6">
     <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/HandExp.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
@@ -103,7 +102,6 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 
   <div class="col-md-6">
     <br>
-    <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
