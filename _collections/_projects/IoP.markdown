@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🏆 IoP: Internet of Tweeting Plants"
+title:  "🏅 IoP: Internet of Tweeting Plants"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
 role: Battery Technitian
@@ -64,7 +64,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
   
   <div class="col-md-9">
     <p> 
-      I learned the importance of diversity in this project. We are a team of four with different majors and backgrounds. I was in charge of the hardware part of the project, while my teammates were focused on the software and presentations. 
+      I learned the importance of diversity in this project. We are a team of four with different majors, skillsets, and personalities. Read our story -- <a href="https://global.ncsu.edu/the-internet-of-plants-students-win-with-social-media/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">Internet of Plants: Students Win with Social Media.</a> 
     </p>
   </div>
 </div>

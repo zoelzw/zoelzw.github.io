@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🏆 Time Manager: what is your definition of efficiency and productivity"
+title:  "🏅 Time Manager: what is your definition of efficiency and productivity"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
 skills: programming 

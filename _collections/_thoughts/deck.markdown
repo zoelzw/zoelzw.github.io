@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: idea
 title:  "How to make a skateboard deck"
 # author: Patrick Henry
 # date:   2019-10-18 10:20:35 +0200
