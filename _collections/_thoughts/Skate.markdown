@@ -10,4 +10,4 @@ I enjoy learning and making. I learned how to skateboard when I was in college, 
 
 <img class="rounded" src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skateboard.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
 
-<img class="rounded" src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skate1.png?raw=true">
+<img class="rounded" src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skate1.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
