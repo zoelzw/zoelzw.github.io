@@ -1,7 +1,7 @@
 ---
 layout: idea
 title:  "From the Evolution of Eyeware to Inclusive Design in Clothing"
-# date:   2020-06-16 19:20:33 +0200
+date:   2020-06-16 19:20:33 +0200
 
 description: Evolution of eyeware 
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/eyeware.jpg?raw=true

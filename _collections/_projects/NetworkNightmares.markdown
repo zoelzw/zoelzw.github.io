@@ -2,7 +2,7 @@
 layout: post
 title:  "🏅 Network Nightmares: creatively use VR in network security issues"
 # author: Patrick Henry
-date:   2017-10-22 10:20:35 +0200
+# date:   2017-10-22 10:20:35 +0200
 # role: Battery Technitian
 # skills: programming 
 description: NC Triangle VR Hackathon Best Visual Design Prize (State Level Hackathon)
