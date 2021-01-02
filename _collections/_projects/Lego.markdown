@@ -30,7 +30,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?ra
     <p> 
       Here's the route that the UV went through. 
     </p>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/network.png?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/route.png?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
 
   </div>
 
@@ -39,17 +39,12 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?ra
 </div>
 <div class="row">
   <div class="col-md-3">
-    <!-- <span style="font-size: 2em; color: red;">
-        <i class="fa fa-angle-right "></i>
-    </span> -->
-    <br>
     <h5 class="Heading"> Implementations </h5>
   </div>
   
   <div class="col-md-9">
-    <br>
     <p>
-      We designed the visualization of nodes and links that represent networks. The "virus" travelled from node to node with a set of logics we designed. The node that had been visited was marked as different colors to indicate the order of the visits. The player had to look around and make judgments to find the virus. We developed most of the project in Unity with C# and assets in Maya and Illustrator. I mainly worked on the spatial audios as another hint to the players.  
+      We firstly tested a few designs to build the UV to find a good structure that provided relatively high speed and stability. Then, we coded the PID controller in MATLAB. I was in charge of the hardware part and designed the distance sensor. I used the 555 timer to generate PWM signals for the ultrasonic sensor and then filtered the results by an RC low pass filter. Lastly, we write programs to do fine tunings.
     </p> 
   </div>
 </div>
@@ -58,15 +53,12 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?ra
 
 <div class="row">
   <div class="col-md-3">
-    <!-- <span style="font-size: 2em; color: red;">
-        <i class="fa fa-angle-right "></i>
-    </span> -->
     <h5 class="Heading"> Reflections </h5>
   </div>
   
   <div class="col-md-9">
     <p> 
-      This was my first experience with VR and Hackathons. I immediately loved the dynamic of Hackathons and the magic of VR. I enjoyed the intensive thinking and making process. It was very stressful, challenging, yet fun. It might sound cheesy, but I did struggle with perfectionism. It was very refreshing for me to try my best and to see what I could do within 48 hours without worrying too much about the outcomes. 
+      I enjoyed working on this project and found it very helpful to exercise theories that I learned from classes. I had a dream where I was a PID controller with automation tuning features. I also wrote a long reflection called "If I were a PID Controller, which I couldn't find anymore. 
     </p>
   </div>
 </div>
