@@ -15,7 +15,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   
   <div class="col-md-9">
     <p>
-      In this project, my teammates and I worked on a PID controller for the Lego Mindstorm Unmanned Vehicle. We designed the controller and distance sensor to complete the following tasks: path tracking, parking, and platooning. 
+      This project is the highlight of my undergraduate education in Electrical Engineering. My professor set design goals for every student, and we came up with the solution independently. In the end, we all built a magic box filled with practical features. 
     </p>
   </div>
 </div>
@@ -29,10 +29,17 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   
   <div class="col-md-9">
     <p> 
-      Here's the route that the UV went through. 
+      To connect the system to the input, the power inlet module should be connected to the wall. The power inlet module takes 120V AC power supply from the outlet as the inputs to the subsystems. 
     </p>
-    
-
+    <p>
+      To use the 15 power supplies, the front panel can provide some information. The black banana plugs are ground, and the red banana plugs are the outputs. The one on the top produces a positive 15 volt power supply, and when the power is on the red LED should be on. The bottom red plug produces negative 15 volt voltage, and the green LED indicates the power on/off. 
+    </p>
+    <p>
+      To use the variable power supply, turn the knob in the front panel.  The display shows the output of the variable power supply. Users can turn the knob to the desired voltage. The black banana plug is the ground, and the red one produces positive voltages. 
+    </p>
+    <p>
+      To use the buck converter, users can choose from voltage mode or current mode. The LED indicates the mode. The left LED is on when the subsystem is in voltage mode, and when current passes the set value the system will be switched into current mode. The right LED is on when current mode is activated. Users can also set the values by turning the system in the box. The voltage now is set as 3.3 V, which is commonly used in digital electronics.
+    </p>
   </div>
 
 
@@ -59,7 +66,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   
   <div class="col-md-9">
     <p> 
-      I enjoyed working on this project and found it very helpful to exercise theories that I learned from classes. I had a dream where I was a PID controller with automation tuning features. I also wrote a long reflection called "If I were a PID Controller, which I couldn't find anymore. 
+      Learning about the theories in classes != making it happen in practice 
     </p>
   </div>
 </div>
