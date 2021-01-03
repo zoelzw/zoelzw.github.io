@@ -44,7 +44,9 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   </div>
   
   <div class="col-md-9">
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/route.png?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/front.png?raw=true">
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/back.png?raw=true">
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/inside.png?raw=true"/>
   </div>
 </div>
 
