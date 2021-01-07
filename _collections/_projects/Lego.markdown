@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Lego Mindstorm: Making PID Cntroller And Ultrasonic Distance Sensor"
-# author: Patrick Henry
-# date:   2019-10-18 10:20:35 +0200
+team: Drish Hansrrajani, Duy Dang
 skills: Control System Design
 description: Designing PID controller and ultrasonic distance sensor for the lego UV 
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?raw=true

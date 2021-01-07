@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Magic Box"
-# author: Patrick Henry
-# date:   2019-10-18 10:20:35 +0200
+team: Independent project
 role: programmer
 skills: programming 
 description: a magic box with bench power supplies and signal generators
@@ -41,10 +40,8 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
       To use the buck converter, users can choose from voltage mode or current mode. The LED indicates the mode. The left LED is on when the subsystem is in voltage mode, and when current passes the set value the system will be switched into current mode. The right LED is on when current mode is activated. Users can also set the values by turning the system in the box. The voltage now is set as 3.3 V, which is commonly used in digital electronics.
     </p>
   </div>
-
-
-
 </div>
+
 <div class="row">
   <div class="col-md-3">
     <h5 class="Heading"> Implementations </h5>

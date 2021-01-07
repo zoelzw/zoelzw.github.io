@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Placket Hack: Create Instant Placket By Yourself"
-# author: Patrick Henry
-# date:   2019-10-18 10:20:35 +0200
+Team: MDA collaborators, Ellen Fowles, Meredith Lee
 skills: Prototyping; Programming 
 description: developing hacking tools for people with physical disabilities
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png?raw=true
