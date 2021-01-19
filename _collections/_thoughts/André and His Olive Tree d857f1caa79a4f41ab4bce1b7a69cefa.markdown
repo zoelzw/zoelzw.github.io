@@ -1,7 +1,7 @@
 ---
 layout: idea
 title:  Watching "André and His Olive Tree"
-image: https://static.thenounproject.com/png/82222-200.png
+image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/olive.png?raw=true
 description: Watching a documentary about pursuing perfection and making choices to jump out of it.
 rating: 5
 ---
