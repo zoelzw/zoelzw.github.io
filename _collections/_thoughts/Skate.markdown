@@ -4,7 +4,7 @@ title:  "I Sk8 Sometimes"
 date:   2018-3-10 10:20:35 +0200
 # skills: woodwork
 description: Things I enjoy doing besides research 
-image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Skate.png?raw=true
+image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Skate0.png?raw=true
 ---
 <p class = "lead">
 I enjoy making, cooking, stand up comedies, doing research (yes, for real), and so much more. 
