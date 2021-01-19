@@ -1,7 +1,7 @@
 ---
 layout: idea
 title:  "Building a Slow Car"
-date:   2018-06-16 19:20:33 +0200
+date:   2019-02-16 19:20:33 +0200
 # role: programmer
 # skills: programming 
 description: Many people are working on making faster cars, but maybe what we really need is people who are making slower cars that do more than simply circle endlessly on a track. This is a reflection on my experience of building a solar car and how have the experience changed my understanding of the role of technology in our lives. 

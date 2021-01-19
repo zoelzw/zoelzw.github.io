@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "vIVa: a lockable IV"
+title:  "vIVa: a lockable IV with IoT features"
 team:  Monique LaValley, Kyle Christ, Jillian Dlugos, Maddie Moore
 description: An IoT solution to accidental IV removals 
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/viva.png?raw=true
