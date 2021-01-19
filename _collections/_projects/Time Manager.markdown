@@ -44,9 +44,9 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/timeManager
   
   <div class="col-md-9">
     <p>
-       The application is a to-do list that users can add and check tasks. It is also a tool that blocks users' access to their mobile phone. Users can start a task by press start and then press finished to mark the time that they used. We implemented basic machine learning models to predict the completion time of tasks in users' to-do lists based on previous records. 
+       The application is a to-do list that users can add and check tasks. It is also a tool that blocks users' access to their mobile phone. Users can start a task by press start and then press finished to mark the time that they used. We implemented basic machine learning models to predict the completion time of tasks in users' to-do lists based on previous records. Happy hacking :)
     </p> 
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/front.png?raw=true">
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/hacking.jpeg?raw=true">
   </div>
 </div>
 

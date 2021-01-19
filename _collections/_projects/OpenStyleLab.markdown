@@ -18,7 +18,6 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png
     </div>
     <br>
   </div>
-  
 </div>
 
 <div class="row">
