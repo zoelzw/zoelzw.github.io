@@ -46,6 +46,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/timeManager
     <p>
        The application is a to-do list that users can add and check tasks. It is also a tool that blocks users' access to their mobile phone. Users can start a task by press start and then press finished to mark the time that they used. We implemented basic machine learning models to predict the completion time of tasks in users' to-do lists based on previous records. 
     </p> 
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/front.png?raw=true">
   </div>
 </div>
 

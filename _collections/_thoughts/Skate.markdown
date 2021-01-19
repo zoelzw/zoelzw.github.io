@@ -3,11 +3,18 @@ layout: idea
 title:  "I Sk8 Sometimes"
 date:   2018-3-10 10:20:35 +0200
 # skills: woodwork
-description: I learned basics of woodwork and made myself a skateboard deck from scratch 
+description: Things I do besides research 
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Skate.png?raw=true
 ---
-I enjoy learning and making. I learned how to skateboard when I was in college, and wanted to make a custom built skateboard for myself. I joined the Craft Center at NC State university to learn the basics of woodwork. I learned several techniques to combine, cut, and reshape wooden pieces.  
+<p class = "lead">
+I enjoy making, cooking, stand up comedies, doing research (yes, for real), and so much more. 
+</p>
 
-<img class="rounded" src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skateboard.jpg?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
 
-<img class="rounded" src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skate1.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'>
+{% capture carousel_images %}
+https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skateboard.jpg?raw=true
+https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/skate1.png?raw=true
+{% endcapture %}
+{% include carousel.html %}
+
+<!-- {% include button.html link="https://github.com" text="GitHub" style="outline-dark" size="lg" %} -->
