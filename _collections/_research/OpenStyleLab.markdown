@@ -2,7 +2,7 @@
 layout: idea
 title:  "Placket Hack: Create Instant Placket With Your Style"
 date:   2020-08-10
-description: developing hacking tools for people with physical disabilities
+description: Developing hacking tools with and for people with physical disabilities to gain more styles in fashion
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png?raw=true
 ---
 <div class="row">
