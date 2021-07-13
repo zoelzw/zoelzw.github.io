@@ -1,11 +1,34 @@
 ---
-layout: post
-title:  "Placket Hack: Create Instant Placket By Yourself"
-Team: MDA collaborators, Ellen Fowles, Meredith Lee
-skills: Prototyping; Programming 
-description: developing hacking tools for people with physical disabilities
+layout: idea
+title:  "Placket Hack: Create Instant Placket With Your Style"
+date:   2020-08-10
+description: Developing hacking tools with and for people with physical disabilities to gain more styles in fashion
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png?raw=true
 ---
+<div class="row">
+  <div class="col-md-4">
+  <p class = "lead">
+    <b>Skills:</b> <br>
+    <!-- experimental design;<br> -->
+    Prototyping; <br>
+    Programming;<br>
+    Communications
+  </p>
+  </div>
+  <div class="col-md-8">
+  <p class = "lead">
+  <b>Team:</b> <br>
+    <!-- experimental design;<br> -->
+    MDA collaborators; <br>
+    Ellen Fowles;<br>
+    Meredith Lee
+  </p>
+  </div>
+</div>
+<hr bordercolor = "lightgrey">
+
+
+
 <div class="row">
   <div class="col-md-3">
     <h5 class="Heading"> Program Overview </h5>

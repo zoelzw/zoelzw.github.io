@@ -7,7 +7,7 @@ description: Things I enjoy doing besides research
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Skate0.png?raw=true
 ---
 <p class = "lead">
-I enjoy making, cooking, stand up comedies, doing research (yes, for real), and so much more. 
+I enjoy making, cooking, stand up comedies, doing research (yes, for real), and so many more things that don't make sense for now. Check out the skateboard deck and eatables I made :) 
 </p>
 
 
