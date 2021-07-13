@@ -65,7 +65,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/PCB1.png?raw=true
   
   <div class="col-md-9">
     <p> 
-    <a href="https://github.com/zoelzw/circuit-design" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">My Github repo containing all the design files of some PCBs I've designed</a> 
+    <a href="https://github.com/zoelzw/circuit-design" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">My Github repo containing design files of some PCBs I've designed</a> 
     </p>
   </div>
 </div>
