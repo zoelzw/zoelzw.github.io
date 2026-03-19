@@ -49,7 +49,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
       Obstacle Avoidance training is widely used in the rehabilitation of patients with mobility limitations. However, this training is limited in clinical environments due to difficulty to generate training courses and potential risks related to the training procedure.
     </p>
     <p>
-      To overcome these problems, many researchers introduced XR (Virtual Reality, Augmented Reality, and Mixed Reality) technology to the training. For example, Microsoft HoloLens was used to generate an obstacle crossing system for gait rehabilitation of amputee and stroke patients. However, it is still unknown whether the HoloLens based AR has a potential influence on obstacle avoidance training results. 
+      To overcome these problems, many researchers introduced XR (Virtual Reality, Augmented Reality, and Mixed Reality) technology to the training. For example, Microsoft HoloLens was used to generate an obstacle crossing system for gait rehabilitation of amputee and stroke patients. However, it is still unknown whether the HoloLens-based AR has a potential influence on obstacle avoidance training results. 
     </p> 
     <p>
       <i class="fa fa-chevron-right"></i> The purpose of this study is to evaluate whether the AR obstacle crossing training affects subjects’ obstacle avoidance strategy compared with their strategies used in a physical obstacle crossing training.
@@ -94,7 +94,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
       The experience was fundamental for me to understand how to face setbacks and research questions rigorously and efficiently. Most importantly, I learned how to formulate my ideas into impactful research.
     </p>
     <p> 
-      I received many interesting and challenging questions during the poster sessions. Some people expressed their excitement about emerging technologies, while others showed their concerns. All the feedbacks inspired me to search for effective Human Computer Interaction that augments human performance and experiences. 
+      I received many interesting and challenging questions during the poster sessions. Some people expressed their excitement about emerging technologies, while others showed their concerns. All the feedback inspired me to search for effective Human Computer Interaction that augments human performance and experiences. 
     </p>
   </div>
 

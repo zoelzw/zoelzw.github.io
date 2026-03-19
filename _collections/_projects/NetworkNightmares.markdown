@@ -12,7 +12,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNigh
   
   <div class="col-md-9">
     <p>
-      Network Nightmares is a Virtual Reality game in Google Cardboard that turns frustrating network debugging work into an entertaining detective game. My teammates and I developed this project in the Triangle VR Hackathon under the VR Hackathon organization. The theme of the hackathon is "tools of trade", and there were over 90 participants from different fields. The judging criteria are design, methodology, execution, and creativity. 
+      Network Nightmares is a Virtual Reality game in Google Cardboard that turns frustrating network debugging work into an entertaining detective game. My teammates and I developed this project in the Triangle VR Hackathon under the VR Hackathon organization. The theme of the hackathon was "tools of trade", and there were over 90 participants from different fields. The judging criteria were design, methodology, execution, and creativity. 
     </p>
   </div>
 </div>
@@ -47,7 +47,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNigh
   <div class="col-md-9">
     <br>
     <p>
-      We designed the visualization of nodes and links that represent networks. The "virus" travelled from node to node with a set of logics we designed. The node that had been visited was marked as different colors to indicate the order of the visits. The player had to look around and make judgments to find the virus. We developed most of the project in Unity with C# and assets in Maya and Illustrator. I mainly worked on the spatial audios as another hint to the players.  
+      We designed the visualization of nodes and links that represent networks. The "virus" travelled from node to node with a set of rules we designed. The node that had been visited was marked with different colors to indicate the order of the visits. The player had to look around and make judgments to find the virus. We developed most of the project in Unity with C# and assets in Maya and Illustrator. I mainly worked on the spatial audio as another hint to the players.  
     </p> 
   </div>
 </div>

@@ -41,10 +41,10 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?r
       Gait dysfunctions often lead to walking patterns that are different from able-bodied walking patterns. Physical therapists (PT) usually rely on observations to diagnose and plan interventions specific to these patterns. 
     </p>
     <p>
-      It is expected that PT students learn to extract features from these patterns through education and practices. So, where do they look at to evaluate gait patterns? Could we use this information to determine whether the diagnosis is reliable or how they transform knowledge into practices? 
+      It is expected that PT students learn to extract features from these patterns through education and practices. So, where do they look to evaluate gait patterns? Could we use this information to determine whether the diagnosis is reliable or how they transform knowledge into practices? 
     </p> 
     <p>
-      <i class="fa fa-chevron-right"></i> We compared what body areas PT students and novices are looking at for gathering information when evaluating gait patterns. We used principal component analysis to transform joint motion of two amputee walkers and a able-bodied walkers into three biological motion models. We then build six videos from each model displaying a synthesized point-light walker for participants to observe. They were asked to rank the videos based on how normal they appeared. 
+      <i class="fa fa-chevron-right"></i> We compared what body areas PT students and novices look at when gathering information when evaluating gait patterns. We used principal component analysis to transform joint motion of two amputee walkers and an able-bodied walker into three biological motion models. We then built six videos from each model displaying a synthesized point-light walker for participants to observe. They were asked to rank the videos based on how normal they appeared. 
     </p>
   </div>
 </div>
@@ -78,7 +78,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?r
     <h2>And beyond...</h2>
     <br>
      <p> 
-     Can you tell these dots of motion (biological motion) represent human walking? Can you rate the gait pattern (1-6) in the video? Wherein, 6 represents the most normal gait pattern. The answer is at the end of the video. Please check out my former colleague's recent paper related to this topic (Perceiving amputee gait from biological motion: kinematics cues and effect of experience level).
+     Can you tell that these dots of motion (biological motion) represent human walking? Can you rate the gait pattern (1-6) in the video? Where 6 represents the most normal gait pattern. The answer is at the end of the video. Please check out my former colleague's recent paper related to this topic (Perceiving amputee gait from biological motion: kinematics cues and effect of experience level).
     </p>
     <p> 
       I joined this project, wondering how do PTs handle different cases in their work. Furthermore, I am still curious about using their domain knowledge to make their job easier by introducing new technology such as computer vision. Or, would they want that? 

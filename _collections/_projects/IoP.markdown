@@ -45,7 +45,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
   
   <div class="col-md-9">
     <p>
-      As a demo, we picked one potted plant and connected it to a moisture level sensor. The sensor was connected to a virtual server that sent its readings to the cloud. The readings trigger different pre-made tweets to update people on the status of the plants. The followers are the actuators that respond to the tweets.   
+      As a demo, we picked one potted plant and connected it to a moisture level sensor. The sensor was connected to a virtual server that sent its readings to the cloud. The readings triggered different pre-made tweets to update people on the status of the plants. The followers were the actuators that responded to the tweets.
     </p> 
   </div>
 </div>
@@ -62,7 +62,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
   
   <div class="col-md-9">
     <p> 
-      I learned the importance of diversity in this project. We are a team of four with different majors, skillsets, and personalities. Read our story -- <a href="https://global.ncsu.edu/the-internet-of-plants-students-win-with-social-media/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">Internet of Plants: Students Win with Social Media.</a> 
+      I learned the importance of diversity in this project. We were a team of four with different majors, skillsets, and personalities. Read our story -- <a href="https://global.ncsu.edu/the-internet-of-plants-students-win-with-social-media/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">Internet of Plants: Students Win with Social Media.</a> 
     </p>
   </div>
 </div>

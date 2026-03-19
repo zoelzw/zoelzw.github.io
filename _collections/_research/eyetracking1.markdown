@@ -2,7 +2,7 @@
 layout: idea
 title:  "Gaze Fixation Comparisons Between Amputees and Able-bodied Individuals in Approaching Stairs and Level-ground Transitions: A Pilot Study"
 date:   2019-06-23 
-description: Where do amputees look at when they approach to stairs? How can we use this information to prepare robotic prothesis for stairs?
+description: Where do amputees look when they approach stairs? How can we use this information to prepare robotic prostheses for stairs?
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=true
 ---
 <div class="row">
@@ -39,7 +39,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
       Previous studies have demonstrated the fundamental significance of the visual system in navigating in complex terrains. It provides environmental feature extraction to guide immediate foot placement and builds a spatial map of the surroundings to plan the route for succeeding steps and/or rapid reactions to unexpected perturbations. 
     </p>
     <p>
-      Where do amputees look when they approach stairs? What can we do with this information to design a co-adaptation system for amputees and robotic prothesis? 
+      Where do amputees look when they approach stairs? What can we do with this information to design a co-adaptation system for amputees and robotic prostheses? 
     </p>
      <p> 
       <i class="fa fa-chevron-right"></i> This paper aims to investigate the visual strategy of transtibial amputees while they are approaching the transition between level-ground and stairs and compare it with that of able-bodied individuals. To this end, we conducted a pilot study where two transtibial amputee subjects and two able-bodied subjects transitioned from level-ground to stairs and vice versa while wearing eye tracking glasses to record gaze fixations.
@@ -79,7 +79,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
       Importantly, these findings can potentially lead us to develop innovative technologies to assist amputees during navigation of these locomotor tasks. For example, by identifying the relationship between gaze behavior patterns and upcoming terrains, a real-time algorithm could be devised for predicting locomotion modes, thereby enhancing the control of robotic prostheses.
     </p>
     <p> 
-      I particularly enjoyed working with amputee participants and learning their feedbacks on Assistive Technology and emerging technologies such as eye-tracking. 
+      I particularly enjoyed working with amputee participants and learning their feedback on Assistive Technology and emerging technologies such as eye-tracking. 
     </p>
     <p> 
        I was also fascinated by how much information can be conveyed by gaze and fixation patterns. I conducted another pilot study using eye-tracking technology. <a href="https://zoelzw.github.io/research/Eyetracking2.html" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">More details</a> 

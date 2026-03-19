@@ -14,7 +14,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/PCB1.png?raw=true
   
   <div class="col-md-9">
     <p>
-      I enjoy making PCBs to automate boring things. Currently, I'm working on a side project to connect as many home appliants as I could to Alexa and Siri to make a smart home. I'm developing a custom PCB using ESP32 which has Wi-Fi and Bluetooth functions to allow me control things remotely. I also aim to sharpen my skills in IoT and product design through this project. 
+      I enjoy making PCBs to automate boring things. Currently, I'm working on a side project to connect as many home appliances as I can to Alexa and Siri to make a smart home. I'm developing a custom PCB using ESP32 which has Wi-Fi and Bluetooth functions to allow me to control things remotely. I also aim to sharpen my skills in IoT and product design through this project. 
     </p> 
     <br>
   </div>
@@ -29,7 +29,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/PCB1.png?raw=true
   
   <div class="col-md-9">
     <p> 
-      Smart Home is an interesting concept that I've wanted to implement to see where this is going based on my personal experiences. The smart devices on the market appear to be expensive blackboxes to many users. I plan to make my own ESP32 development board as a control hub to reduce costs and gain control for my home. And, I'm considering to add sensors to my home to make the whole system mine. 
+      Smart Home is an interesting concept that I've wanted to implement to see where this is going based on my personal experiences. The smart devices on the market appear to be expensive blackboxes to many users. I plan to make my own ESP32 development board as a control hub to reduce costs and gain control for my home. And, I'm considering adding sensors to my home to make the whole system mine. 
     </p>
   </div>
 
@@ -45,7 +45,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/PCB1.png?raw=true
   
   <div class="col-md-9">
     <p>
-      barebone ESP 32 dev boar v 1.0
+      Barebone ESP32 dev board v1.0
     </p> 
        <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/pcb2.png?raw=true" style='height: 80%; width: 40%; object-fit: contain'/>
         <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/pcb3.png?raw=true" style='height: 80%; width: 40%; object-fit: contain'/>

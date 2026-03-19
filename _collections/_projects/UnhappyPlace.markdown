@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unhappy Place: a wearable bracelet that detects anxiety attack "
+title:  "Unhappy Place: a wearable bracelet that detects anxiety attacks"
 team: Olivia Sturman, Dasha Shifrina, Davaajav Ganzorig, Scott Ellenoff
 skills: Sensor; Programming
 description: We explored a wearable device which can detect anxiety/panic attack symptoms and guide the user through a symptom mitigation exercise.

@@ -53,7 +53,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
       Researchers have turned to wearable devices that enable users to experience the sense of having a different body, such as size-illusions based on Virtual Reality. 
     </p> 
     <p>
-      Could we achieves this in the user’s real environment, preserving the user’s physical and social contexts? 
+      Could we achieve this in the user’s real environment, preserving the user’s physical and social contexts? 
     </p>
     <p>
       <i class="fa fa-chevron-right"></i> HandMorph, a passive exoskeleton that miniaturizes grasp, provides a unique spin on wearables to passively simulate a child's hand and offers adults a new grasp of empathy while they can still interact with the physical world. 
@@ -72,7 +72,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
     <br>
     <h2>Contribution</h2>
     <p> 
-      In this project, I led the second user study to examine participants’ experiences with HandMorph and participated in paper writting. 
+      In this project, I led the second user study to examine participants’ experiences with HandMorph and participated in paper writing. 
     </p>
     <p> 
       To investigate whether HandMorph could assist in evaluating/designing products for people with smaller hands, I recruited eight participants to improve the design of a simple toy trumpet to be used by smaller persons, such as chil­dren (ages 3-10). 
@@ -90,7 +90,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
     <h2>And beyond...</h2>
     <br>
      <p> 
-      Embodiment has been widly discussed across the fields of Neuroscience, Rehabilitation, Psychology, Robotics, and so on. I am also very interested in the concept of embodying foreign objects since it may enable new paradiams in HCI. 
+      Embodiment has been widely discussed across the fields of Neuroscience, Rehabilitation, Psychology, Robotics, and so on. I am also very interested in the concept of embodying foreign objects since it may enable new paradigms in HCI. 
     </p>
     <p> 
       For instance, Human Computer Integration apply this concept to an extrem that the human body and machines become one. Will this be the future? Is it possible to change our implicit social bias by putting ourselves in other people’s <s>shoes</s> bodies? 
@@ -115,10 +115,10 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
       Maybe instead of us trying to adopt a wearable, how about a co-adopt system? 
     </p>
     <p> 
-      I organized a gust talk from my former research advisor Dr. Helen Huang to discuss integration and co-adaptation of smart wearables and humans in neuromuscular rehabilitation. 
+      I organized a guest talk from my former research advisor Dr. Helen Huang to discuss integration and co-adaptation of smart wearables and humans in neuromuscular rehabilitation. 
     </p>
     <p>     
-      Additionaly, my colleagues and I engineered and explored a wearable device with touch sensing and vibrotactile actuation based on a neuroscience principle for a future submission. More details can be found in the future. 
+      Additionally, my colleagues and I engineered and explored a wearable device with touch sensing and vibrotactile actuation based on a neuroscience principle for a future submission. More details can be found in the future. 
     </p>
   </div>
   <div class="col-md-6">

@@ -2,7 +2,7 @@
 layout: idea
 title:  "SolarPack: Building a Competitive Solar Car with Practical Features"
 date:   2017-07-03 
-description: Developing fundations for a 4-seater solar vehicle
+description: Developing foundations for a 4-seater solar vehicle
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=true
 ---
 <div class="row">
@@ -35,7 +35,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
   
   <div class="col-md-6">
     <br>
-    <h2>motivation</h2>
+    <h2>Motivation</h2>
     <p> 
       The Formula Sun Grand Prix (FSGP) is an annual track competition that is held on grand prix or road style closed courses. This unique style of solar car racing is open to teams from around the world and truly tests the limits of the vehicles in handling curves, braking, and acceleration. On years when the American Solar Challenge (ASC) is held, FSGP serves as the qualifier event for this competition. 
     </p>
