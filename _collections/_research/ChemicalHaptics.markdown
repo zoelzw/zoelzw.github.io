@@ -30,7 +30,7 @@ conf: UIST 2021
 <div class="row">
   <div class="col-md-12">
     <div class="d-flex justify-content-center embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/XhH2Cc4thJc" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2OTi4xfQg3U" allowfullscreen></iframe>
     </div>
   </div>
 </div>
@@ -52,8 +52,6 @@ conf: UIST 2021
   </div>
 
   <div class="col-md-6">
-    <br>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/chemicalhaptics.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
 <hr bordercolor = "lightgrey">
@@ -74,8 +72,6 @@ conf: UIST 2021
   </div>
 
   <div class="col-md-6">
-    <br>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/chemicalhaptics2.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
 <hr bordercolor = "lightgrey">

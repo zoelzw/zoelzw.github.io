@@ -34,11 +34,11 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png
     <h5 class="Heading"> Program Overview </h5>
     <br>
   </div>
-  
+
   <div class="col-md-9">
-    <div class="d-flex justify-content-center embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qJjRVBIzBZ0" allowfullscreen></iframe>
-    </div>
+    <p>
+      OpenStyleLab is an MIT-based program that pairs interdisciplinary teams — engineers, designers, and occupational therapists — with people with disabilities to co-create adaptive fashion solutions. Each team works directly with a collaborator to understand their specific needs and build something that is both functional and stylish.
+    </p>
     <br>
   </div>
 </div>
@@ -48,12 +48,15 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png
     <br>
     <h5 class="Heading"> Project Overview </h5>
   </div>
-  
+
   <div class="col-md-9">
     <br>
-    <div class="d-flex justify-content-center embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lYK7SriNFOM" allowfullscreen></iframe>
-    </div>
+    <p>
+      Placket Hack addresses a common barrier in adaptive dressing: traditional button plackets are difficult or impossible to use independently for people with limited hand mobility. Working with our MDA collaborators, we designed a modular placket insert that replaces standard buttons with a hidden magnetic or hook-and-eye fastening system, while preserving the look of a conventional shirt front.
+    </p>
+    <p>
+      The result is a "hack" that can be retrofit onto existing garments — no sewing required — giving people more choice over the clothes they wear without sacrificing style for function.
+    </p>
   </div>
 </div>
 
