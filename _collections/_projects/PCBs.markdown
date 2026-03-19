@@ -3,7 +3,7 @@ layout: post
 title:  "My Smart Home: DIY PCBs and Hardware for my apartment"
 # team: Riken Shah, Ling Chao Mao, Beliz Ilica 
 skills: Circuit Design and Analysis, PCB Design 
-description: Here're some PCBs I've made and more to come 
+description: Custom ESP32 PCBs for a DIY smart home — connecting appliances to Alexa and Siri at a fraction of the cost of commercial smart devices
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/PCB1.png?raw=true
 ---
 <div class="row">
@@ -29,7 +29,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/PCB1.png?raw=true
   
   <div class="col-md-9">
     <p> 
-      Smart Home is an interesting concept that I've wanted to implement to see where this is going based on my personal experiences. The smart devices on the market appear to be expensive blackboxes to many users. I plan to make my own ESP32 development board as a control hub to reduce costs and gain control for my home. And, I'm considering adding sensors to my home to make the whole system mine. 
+      Smart home technology has always intrigued me, but commercial devices are expensive black boxes that offer little control. I decided to build my own — an ESP32-based control hub with Wi-Fi and Bluetooth that lets me connect home appliances to Alexa and Siri, and expand the system on my own terms.
     </p>
   </div>
 

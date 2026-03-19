@@ -28,7 +28,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/timeManager
   
   <div class="col-md-9">
     <p> 
-      There are many apps and tools available online to help people manage their tasks and time. However, they do not share the information that could potentially be used to better serve users. I had the idea to make an all-in-one app that can not only serve as a to-do list but also a recommendation system that monitors users' tasks and recommends tasks for them to complete in limited time slots.  
+      Most productivity apps work in isolation — they track tasks but never learn from them. I wanted to build something smarter: an all-in-one app that acts as both a to-do list and a recommendation engine, using your history to suggest what to tackle next within the time you actually have.
     </p>
   </div>
 
@@ -62,7 +62,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/timeManager
   
   <div class="col-md-9">
     <p> 
-      I really love this idea and will revisit it later. 
+      The idea of a task manager that learns your habits and actively works with you — rather than just listing things — is something I want to keep building on.
     </p>
   </div>
 </div>

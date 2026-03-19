@@ -4,7 +4,7 @@ title:  "Magic Box"
 team: Independent project
 role: programmer
 skills: programming 
-description: a magic box with bench power supplies and signal generators
+description: A self-contained electronics workbench with dual ±15V rails, a variable power supply, and a buck converter — designed and built from scratch as a capstone project
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?raw=true
 ---
 <div class="row">
@@ -14,7 +14,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   
   <div class="col-md-9">
     <p>
-      This project is the highlight of my undergraduate education in Electrical Engineering. My professor set design goals for every student, and we came up with the solution independently. In the end, we all built a magic box filled with practical features. 
+      This project is the highlight of my undergraduate education in Electrical Engineering. Each student received individual design goals from our professor and developed their solution independently. In the end, we each built a "magic box" — a self-contained instrument packed with practical features.
     </p>
   </div>
 </div>
@@ -28,16 +28,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   
   <div class="col-md-9">
     <p> 
-      To connect the system to the input, the power inlet module should be connected to the wall. The power inlet module takes 120V AC power supply from the outlet as the inputs to the subsystems. 
-    </p>
-    <p>
-      To use the 15 power supplies, the front panel can provide some information. The black banana plugs are ground, and the red banana plugs are the outputs. The one on the top produces a positive 15 volt power supply, and when the power is on the red LED should be on. The bottom red plug produces negative 15 volt voltage, and the green LED indicates the power on/off. 
-    </p>
-    <p>
-      To use the variable power supply, turn the knob in the front panel.  The display shows the output of the variable power supply. Users can turn the knob to the desired voltage. The black banana plug is the ground, and the red one produces positive voltages. 
-    </p>
-    <p>
-      To use the buck converter, users can choose from voltage mode or current mode. The LED indicates the mode. The left LED is on when the subsystem is in voltage mode, and when current passes the set value the system will be switched into current mode. The right LED is on when current mode is activated. Users can also set the values by turning the system in the box. The voltage now is set as 3.3 V, which is commonly used in digital electronics.
+      The box takes 120V AC from the wall through a power inlet module, which distributes power to several subsystems. The fixed ±15V supplies use color-coded banana plugs — red for positive outputs, black for ground — with LEDs indicating power state. A front-panel knob controls the variable supply, whose output is shown on a display. The buck converter operates in either voltage or current mode, indicated by two LEDs, with the output defaulting to 3.3V for digital electronics use.
     </p>
   </div>
 </div>
@@ -63,7 +54,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/box.jpeg?ra
   
   <div class="col-md-9">
     <p> 
-      Learning about the theories in classes != making it happen in practice 
+      Understanding a theory in class and actually making it work in hardware are two very different things. This project made that gap impossible to ignore.
     </p>
   </div>
 </div>

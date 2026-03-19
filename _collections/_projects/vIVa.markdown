@@ -2,7 +2,7 @@
 layout: post
 title:  "vIVa: a lockable IV with IoT features"
 team:  Monique LaValley, Kyle Christ, Jillian Dlugos, Maddie Moore
-description: An IoT solution to accidental IV removals 
+description: A wearable IoT device that detects and alerts care teams when a patient's IV is at risk of accidental removal
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/viva.png?raw=true
 ---
 <div class="row">
@@ -12,7 +12,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/viva.png?ra
   
   <div class="col-md-9">
     <p> 
-      Venture down a Reddit or Tumblr blackhole and you will find hundreds of posts and memes seeking advice or venting frustrations about patients pulling out their IVs. We explored a wearable device with IoT features to solve this problem.
+      Scroll through Reddit or Tumblr long enough and you'll find hundreds of posts from nurses venting about patients pulling out their IVs. It's a frustrating, costly, and sometimes dangerous problem. We explored whether a wearable device with IoT features could help.
     </p>
   </div>
 </div>
@@ -56,7 +56,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/viva.png?ra
   
   <div class="col-md-9">
     <p> 
-        I collaborated with wonderful teammates on this project who offered so much for me to learn. I was amazed by their motivated attitudes and problem-solving skills. 
+      Working with this team reminded me how much you can learn by simply being around people who care deeply about what they're building. Their drive and thoughtfulness raised the bar for everything we made together.
     </p>
   </div>
 </div>

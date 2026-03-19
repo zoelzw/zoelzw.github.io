@@ -3,7 +3,7 @@ layout: idea
 title:  Watching "André and His Olive Tree"
 # date:  2021-1-17 10:20:35 +0200
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/olive.png?raw=true
-description: Watching a documentary about pursuing perfection and making choices to jump out of it.
+description: Reflections on a documentary about a Michelin-starred chef who walks away from perfection to build something more personal
 rating: 5
 ---
 <div class="row">
@@ -49,7 +49,7 @@ rating: 5
   
   <div class="col-md-9">
     <p class = "lead">
-		Maybe I should jump out of all of the game, I thought. There is no perfection, but rather the OCD-like habits and standards one holds for themselves. One doesn't need any validation because they have the confidence that they deserve the things they work hard for. There are some cool characters in this movie. The chef who finally stepped out of his fantasy started to build a home that he was lacking in his childhood. The supportive wife who was cool AF might be the one who has experienced the pain with her husband but chose to tough it out. I hope she is happy as she deserves it too. The girl who got angry at the chef when he decided to close up the restaurant didn't shock me. I mean, I could see it coming when he shared her story of how she got started. I felt like we were in a similar stage where we get angry at things and people sometimes. The pastry chef, of course, was a lucky and tough guy. Great movie. 
-  	</p>
+		A documentary about Chef André Chiang, who built one of the world's best restaurants and then chose to close it at its peak. The film follows his pursuit of perfection, the people around him, and what he decides to do when he finally steps away from it all. Worth watching if you've ever wondered what it costs to be great at something — and whether it's worth it.
+</p>
   </div>
 </div>

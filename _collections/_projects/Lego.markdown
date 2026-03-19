@@ -3,7 +3,7 @@ layout: post
 title:  "Lego Mindstorm: Making PID Controller And Ultrasonic Distance Sensor"
 team: Drish Hansrrajani, Duy Dang
 skills: Control System Design
-description: Designing a PID controller and ultrasonic distance sensor for the Lego UV
+description: Building a PID controller and ultrasonic distance sensor to guide a Lego Mindstorm unmanned vehicle through path tracking, parking, and platooning
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?raw=true
 ---
 <div class="row">
@@ -27,7 +27,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?ra
   
   <div class="col-md-9">
     <p> 
-      Here's the route that the UV went through. 
+      The route below shows the path the UV navigated, covering a path-tracking section, a parking maneuver, and a platooning sequence.
     </p>
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/route.png?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
 
@@ -43,7 +43,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?ra
   
   <div class="col-md-9">
     <p>
-      We first tested a few designs to build the UV to find a good structure that provided relatively high speed and stability. Then, we coded the PID controller in MATLAB. I was in charge of the hardware part and designed the distance sensor. I used the 555 timer to generate PWM signals for the ultrasonic sensor and then filtered the results with an RC low-pass filter. Lastly, we wrote programs to do fine tunings.
+      We first tested a few designs to build the UV to find a good structure that provided relatively high speed and stability. Then, we coded the PID controller in MATLAB. I was in charge of the hardware part and designed the distance sensor. I used the 555 timer to generate PWM signals for the ultrasonic sensor and then filtered the results with an RC low-pass filter. Lastly, we wrote programs for fine-tuning.
     </p> 
   </div>
 </div>
@@ -57,7 +57,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/lego.PNG?ra
   
   <div class="col-md-9">
     <p> 
-      I enjoyed working on this project and found it very helpful to exercise theories that I learned from classes. I had a dream where I was a PID controller with automation tuning features. I also wrote a long reflection called "If I were a PID Controller," which I couldn't find anymore. 
+      I enjoyed this project and found it invaluable for applying theories I had only encountered in class. I had a dream where I was a PID controller with auto-tuning features. I also wrote a long reflection called "If I were a PID Controller," which I couldn't find anymore. 
     </p>
   </div>
 </div>

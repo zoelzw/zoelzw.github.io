@@ -3,7 +3,7 @@ layout: post
 title:  "🏅 IoP: Internet of Tweeting Plants"
 team: Riken Shah, Ling Chao Mao, Beliz Ilica 
 skills: programming 
-description: NC State Sustainability Innovation Challenge Make-A-Thon Best Social Media Prize (University-level Hackathon)
+description: Award-winning IoT project that gives plants a voice on Twitter — Best Social Media Prize at NC State's Makeathon
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
 ---
 <div class="row">
@@ -14,7 +14,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
   
   <div class="col-md-9">
     <p>
-      IoP is an Internet of Things project and interactive experience that enables plants to tweet their needs on Twitter and to build relationships with their caregivers. My teammates and I developed this project in Makeathon, which is an annual event at NC State University. 
+      IoP is an Internet of Things project that enables plants to tweet their own care needs on Twitter, building an interactive relationship between plants and their caregivers. My teammates and I built it for Makeathon, an annual hackathon at NC State University. 
     </p> 
     <br>
   </div>
@@ -29,7 +29,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
   
   <div class="col-md-9">
     <p> 
-      Tweeting plants tell you when and what they need to keep gardening efficient and fun. This project was inspired by the Open Algo project from MIT Media Lab. We realized that maintaining plants can be very expensive for universities. We wanted to put plants online to attract people to water and take care of them through interactive experiences.  
+      Tweeting plants tell you when and what they need, keeping gardening efficient and engaging. Inspired by the Open Algo project from MIT Media Lab, we noticed that maintaining plants at universities is expensive and often neglected. We wanted to bring plants online — giving caregivers a tangible, interactive reason to engage with them.  
     </p>
   </div>
 
@@ -62,7 +62,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/IoP.png?raw=true
   
   <div class="col-md-9">
     <p> 
-      I learned the importance of diversity in this project. We were a team of four with different majors, skillsets, and personalities. Read our story -- <a href="https://global.ncsu.edu/the-internet-of-plants-students-win-with-social-media/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">Internet of Plants: Students Win with Social Media.</a> 
+      I learned the importance of diversity through this project. We were a team of four with different majors, skillsets, and personalities — and that breadth was exactly what made it work. Read our story: <a href="https://global.ncsu.edu/the-internet-of-plants-students-win-with-social-media/" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">Internet of Plants: Students Win with Social Media.</a> 
     </p>
   </div>
 </div>

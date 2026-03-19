@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "🏅 Network Nightmares: creatively use VR in network security issues"
+title:  "🏅 Network Nightmares: A VR Detective Game for Network Security"
 team: Jason Suttles, Thomas Huneycutt, Jaberish
-description: NC Triangle VR Hackathon Best Visual Design Prize (State Level Hackathon)
+description: Award-winning VR detective game that turns network security debugging into an immersive mystery — Best Visual Design at the NC Triangle VR Hackathon
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNightmares.jpg?raw=true
 ---
 <div class="row">
@@ -12,7 +12,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNigh
   
   <div class="col-md-9">
     <p>
-      Network Nightmares is a Virtual Reality game in Google Cardboard that turns frustrating network debugging work into an entertaining detective game. My teammates and I developed this project in the Triangle VR Hackathon under the VR Hackathon organization. The theme of the hackathon was "tools of trade", and there were over 90 participants from different fields. The judging criteria were design, methodology, execution, and creativity. 
+      Network Nightmares is a Virtual Reality game for Google Cardboard that turns the frustrating work of network debugging into an immersive detective experience. My teammates and I built it for the Triangle VR Hackathon, a state-level event with over 90 participants judged on design, methodology, execution, and creativity. 
     </p>
   </div>
 </div>
@@ -26,7 +26,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/networkNigh
   
   <div class="col-md-9">
     <p> 
-      Networks are very complicated and abstract. We had the idea to use VR to visualize abstract concepts and to facilitate programmers' work. As a Security Network Analyst, the player observes a digital world of branching nodes. One of these nodes is a virus that infects all data transfers that pass through it, infecting the nodes these transfers end at. The player must track the virus down before the entire network falls apart.
+      Networks are abstract and hard to visualize. We wanted to use VR to make that abstraction tangible and give programmers a new way to think about security problems. Playing as a Security Network Analyst, the player moves through a branching digital world of nodes. One node is a virus, silently infecting every data transfer that passes through it. The player must identify and isolate it before the entire network collapses.
     </p>
     <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/network.png?raw=true" style='height: 80%; width: 80%; object-fit: contain'/>
 
