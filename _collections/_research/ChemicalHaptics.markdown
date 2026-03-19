@@ -37,41 +37,23 @@ conf: UIST 2021
 <hr bordercolor = "lightgrey">
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-12">
     <br>
     <h2>Motivation</h2>
     <p>
-      Touch is central to how we experience the world, yet most haptic devices rely on mechanical actuation — vibration, pressure, stretch — and are therefore limited to the sensations that mechanoreceptors alone can produce.
+      Most haptic devices rely on mechanical actuation and can only stimulate mechanoreceptors. Many skin receptors — thermoreceptors, nociceptors — are chemically sensitive and govern sensations like warmth, cold, and tingling that are hard to reproduce mechanically. Could we trigger them directly through chemistry?
     </p>
-    <p>
-      Many skin receptors, including thermoreceptors and nociceptors, are chemically sensitive. These receptors are routinely overlooked in haptic research, even though they govern sensations like warmth, cold, tingling, and numbing that are difficult or impossible to produce mechanically.
-    </p>
-    <p>
-      <i class="fa fa-chevron-right"></i> Could we trigger these receptors directly — not through actuators, but through chemistry?
-    </p>
-  </div>
-
-  <div class="col-md-6">
   </div>
 </div>
 <hr bordercolor = "lightgrey">
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-12">
     <br>
     <h2>Contribution</h2>
     <p>
-      We introduce <i>Chemical Haptics</i> — a new class of haptic devices that deliver safe, skin-approved topical stimulants via a soft silicone wearable patch with embedded micropumps. When absorbed, these stimulants chemically trigger receptors in the skin to produce distinct, lasting sensations.
+      We introduce <i>Chemical Haptics</i>: a wearable silicone patch with embedded micropumps that delivers topical stimulants to the skin, chemically triggering receptors to produce distinct sensations. We identified five effective compounds — sanshool (tingling), lidocaine (numbing), cinnamaldehyde (stinging), capsaicin (warming), and menthol (cooling) — all from a single actuator. Two user studies confirmed distinct temporal profiles per chemical and significantly increased VR immersion compared to no haptics.
     </p>
-    <p>
-      We identified five effective compounds: sanshool (tingling), lidocaine (numbing), cinnamaldehyde (stinging), capsaicin (warming), and menthol (cooling). A single wearable actuator can produce all of these sensations — something that would otherwise require combining multiple electro-mechanical devices.
-    </p>
-    <p>
-      We validated our approach through two user studies. The first characterized the temporal profiles of each chemical sensation. In the second, participants rated five VR experiences as significantly more immersive with chemical haptics than without.
-    </p>
-  </div>
-
-  <div class="col-md-6">
   </div>
 </div>
 <hr bordercolor = "lightgrey">

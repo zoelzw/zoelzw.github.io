@@ -2,7 +2,7 @@
 layout: idea
 title:  "Influence of Experience on Eye Gaze Patterns and Identification of Normative Gait from Biological Motion"
 # author: Patrick Henry
-# date:   2019-10-05
+date:   2019-10-05
 
 description: What is the information that an individual is using to determine normal walking? How would education and experiences influence where physical therapists look at to diagnose?
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?raw=true
