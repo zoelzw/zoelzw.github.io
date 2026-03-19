@@ -1,7 +1,7 @@
 ---
 layout: idea
 title:  Watching "André and His Olive Tree"
-# date:  2021-1-17 10:20:35 +0200
+date:  2018-12-01 10:20:35 +0200
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/olive.png?raw=true
 description: Reflections on a documentary about a Michelin-starred chef who walks away from perfection to build something more personal
 rating: 5
