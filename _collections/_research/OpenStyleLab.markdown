@@ -36,9 +36,9 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/placket.png
   </div>
 
   <div class="col-md-9">
-    <p>
-      OpenStyleLab is an MIT-based program that pairs interdisciplinary teams — engineers, designers, and occupational therapists — with people with disabilities to co-create adaptive fashion solutions. Each team works directly with a collaborator to understand their specific needs and build something that is both functional and stylish.
-    </p>
+    <div class="d-flex justify-content-center embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qJjRVBIzBZ0" allowfullscreen></iframe>
+    </div>
     <br>
   </div>
 </div>

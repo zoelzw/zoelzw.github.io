@@ -2,7 +2,7 @@
 layout: idea
 title:  "Gaze Fixation Comparisons Between Amputees and Able-bodied Individuals in Approaching Stairs and Level-ground Transitions: A Pilot Study"
 date:   2019-06-23 
-description: Where do amputees look when they approach stairs? How can we use this information to prepare robotic prostheses for stairs?
+description: IEEE EMBC 2019 -- Where do amputees look when they approach stairs? How can we use this information to prepare robotic prostheses for stairs?
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=true
 ---
 <div class="row">

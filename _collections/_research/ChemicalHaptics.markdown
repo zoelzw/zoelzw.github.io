@@ -63,7 +63,7 @@ conf: UIST 2021
 <hr bordercolor = "lightgrey">
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-12">
     <br>
     <h2>And beyond...</h2>
     <p>
@@ -75,10 +75,6 @@ conf: UIST 2021
     <p>
       I'm excited to keep exploring the intersection of chemistry, the body, and interactive systems — and what it means to design for the full range of human sensation.
     </p>
-  </div>
-
-  <div class="col-md-6">
-    <br>
   </div>
 </div>
 <hr bordercolor = "lightgrey">

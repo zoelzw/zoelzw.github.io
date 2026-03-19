@@ -2,7 +2,7 @@
 layout: idea
 title:  "HoloLens-based Augmented Reality Obstacle Avoidance Training Has Varying Impact on Individuals’ Obstacle Avoidance Strategies"
 date:  2018-06-12
-description: In order to gauge the application of Mixed Reality in building safer and programmable obstacle training courses for rehabilitation, I compared people’s obstacle avoidance strategies in HoloLens-based Mixed Reality and in reality.
+description: BMES 2018 -- In order to gauge the application of Mixed Reality in building safer and programmable obstacle training courses for rehabilitation, I compared people’s obstacle avoidance strategies in HoloLens-based Mixed Reality and in reality.
 image: https://github.com/zoelzw/zoelzw/blob/master/assets/HoloLens.png?raw=true
 ---
 <div class="row">
