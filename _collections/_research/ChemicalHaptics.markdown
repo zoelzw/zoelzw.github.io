@@ -48,12 +48,16 @@ conf: UIST 2021
 <hr bordercolor = "lightgrey">
 
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-6">
     <br>
     <h2>Contribution</h2>
     <p>
       We introduce <i>Chemical Haptics</i>: a wearable silicone patch with embedded micropumps that delivers topical stimulants to the skin, chemically triggering receptors to produce distinct sensations. We identified five effective compounds — sanshool (tingling), lidocaine (numbing), cinnamaldehyde (stinging), capsaicin (warming), and menthol (cooling) — all from a single actuator. Two user studies confirmed distinct temporal profiles per chemical and significantly increased VR immersion compared to no haptics.
     </p>
+  </div>
+  <div class="col-md-6">
+    <br>
+    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/chemicalhaptics.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
 <hr bordercolor = "lightgrey">
