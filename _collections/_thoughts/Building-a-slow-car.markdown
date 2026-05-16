@@ -22,4 +22,4 @@ Last but not least, Solar Pack has taught me to take initiatives even though it 
 
 Soon after we returned to our motley crew's garage, the recruitment team from Tesla visited us. Hearing about their working experiences and advice made it even more clear to me that taking initiatives and pursuing meanings are also vital principles in Engineering that I didn't learn from the class. After only one year's experience on this project, I realized that I did not need to chase after the latest technological developments and the products they make, but, instead, need to have moments of stillness to examine the ever-evolving role of technology in our lives. Many people are working on making faster cars, but maybe what we really need is people who are making slower cars that do more than simply circle endlessly on a track.
 
-<img class="img-fluid rounded" src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/solar3.JPG?raw=true">
+
