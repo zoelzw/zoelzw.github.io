@@ -2,7 +2,7 @@
 layout: idea
 title:  "Chemical Haptics: Rendering Haptic Sensations via Topical Stimulants"
 date:   2021-10-12 10:00:00 +0200
-description: UIST 2021 -- A new class of haptic devices that deliver liquid topical stimulants to the skin, chemically triggering receptors to produce distinct sensations such as tingling, numbing, cooling, warming, and stinging.
+description: UIST 2021 -- Wearable haptic devices that deliver liquid topical stimulants to the skin, chemically triggering receptors to render distinct sensations including tingling, numbing, cooling, warming, and stinging.
 image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/chemicalhaptics.png?raw=true
 conf: UIST 2021
 ---
@@ -52,7 +52,7 @@ conf: UIST 2021
     <br>
     <h2>Contribution</h2>
     <p>
-      We introduce <i>Chemical Haptics</i>: a wearable silicone patch with embedded micropumps that delivers topical stimulants to the skin, chemically triggering receptors to produce distinct sensations. We identified five effective compounds — sanshool (tingling), lidocaine (numbing), cinnamaldehyde (stinging), capsaicin (warming), and menthol (cooling) — all from a single actuator. Two user studies confirmed distinct temporal profiles per chemical and significantly increased VR immersion compared to no haptics.
+      My contribution focused on engineering and iterating the hardware prototypes for <i>Chemical Haptics</i> — a wearable silicone patch with embedded micropumps that delivers topical stimulants directly to the skin. I worked through multiple design iterations to achieve reliable chemical delivery, testing compounds including sanshool (tingling), lidocaine (numbing), cinnamaldehyde (stinging), capsaicin (warming), and menthol (cooling) from a single actuator. The prototypes validated the concept and demonstrated the device's small form factor and flexibility as a wearable.
     </p>
   </div>
   <div class="col-md-6">

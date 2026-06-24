@@ -89,7 +89,5 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
   </div>
 
   <div class="col-md-6">
-    <br>
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/solar4.JPG?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
 </div>
