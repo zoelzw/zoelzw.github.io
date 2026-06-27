@@ -1,45 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" font-family="Arial, sans-serif">
-  <rect x="1" y="1" width="598" height="298" rx="8" fill="#fff" stroke="#e8e8e8" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <rect width="600" height="300" fill="#fafafa"/>
 
-  <!-- Theme tag -->
-  <rect x="20" y="18" width="168" height="22" rx="11" fill="#cc0000"/>
-  <text x="104" y="33" text-anchor="middle" font-size="10" fill="#fff" font-weight="bold" letter-spacing="0.8">EMBODIED INTERACTION</text>
+  <!-- Hero phrase -->
+  <text x="300" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#1a1a1a" font-weight="bold" letter-spacing="-1">FEEL SMALLER</text>
 
-  <!-- Central question -->
-  <rect x="60" y="52" width="480" height="40" rx="6" fill="#fff8f8" stroke="#cc0000" stroke-width="1.5"/>
-  <text x="300" y="77" text-anchor="middle" font-size="13" fill="#cc0000" font-style="italic">Can we experience a smaller hand in the real physical world?</text>
+  <!-- Motivating question -->
+  <text x="300" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#cc0000" font-style="italic">Can we embody a different body size in the real physical world?</text>
 
-  <!-- Divider -->
-  <line x1="60" y1="108" x2="540" y2="108" stroke="#f0f0f0" stroke-width="1"/>
+  <line x1="160" y1="90" x2="440" y2="90" stroke="#e8e8e8" stroke-width="1"/>
 
-  <!-- Left branch: existing VR approach -->
-  <line x1="300" y1="108" x2="170" y2="132" stroke="#ddd" stroke-width="1.5"/>
-  <rect x="60" y="132" width="220" height="32" rx="5" fill="#f5f5f5" stroke="#e0e0e0" stroke-width="1"/>
-  <text x="170" y="152" text-anchor="middle" font-size="12" fill="#555">VR size illusions</text>
+  <!-- Left cluster: VR approach (gray) -->
+  <text x="95" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cccccc" font-weight="bold">virtual reality</text>
+  <text x="80" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#d8d8d8">size illusion</text>
+  <text x="110" y="183" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#ddd">VR only</text>
+  <text x="84" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e2e2e2">no real contact</text>
+  <text x="108" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e8e8e8">disembodied</text>
 
-  <line x1="170" y1="164" x2="170" y2="182" stroke="#ddd" stroke-width="1.5"/>
-  <polygon points="165,179 175,179 170,186" fill="#ddd"/>
-  <rect x="80" y="186" width="180" height="28" rx="4" fill="#f0f0f0" stroke="#ddd" stroke-width="1"/>
-  <text x="170" y="204" text-anchor="middle" font-size="11" fill="#777">virtual only · no real contact</text>
+  <!-- Center bridge -->
+  <text x="300" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">passive exoskeleton</text>
+  <text x="300" y="179" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">miniaturized grasp</text>
 
-  <text x="170" y="238" text-anchor="middle" font-size="10" fill="#bbb">embodied cognition  ·  body ownership</text>
+  <!-- Right cluster: HandMorph impact (red) -->
+  <text x="490" y="125" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#cc0000" font-weight="bold">real world</text>
+  <text x="508" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cc0000">empathy</text>
+  <text x="476" y="177" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#cc0000">physical context</text>
+  <text x="510" y="201" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#dd4444">design for children</text>
+  <text x="484" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dd4444">body ownership preserved</text>
 
-  <!-- VS -->
-  <text x="300" y="200" text-anchor="middle" font-size="16" fill="#e8e8e8" font-weight="bold">vs</text>
-
-  <!-- Right branch: HandMorph -->
-  <line x1="300" y1="108" x2="430" y2="132" stroke="#cc0000" stroke-width="1.5" opacity="0.4"/>
-  <rect x="320" y="132" width="220" height="32" rx="5" fill="#fff0f0" stroke="#cc0000" stroke-width="1.5"/>
-  <text x="430" y="152" text-anchor="middle" font-size="12" fill="#cc0000" font-weight="bold">passive exoskeleton</text>
-
-  <line x1="430" y1="164" x2="430" y2="182" stroke="#cc0000" stroke-width="1.5" opacity="0.5"/>
-  <polygon points="425,179 435,179 430,186" fill="#cc0000" opacity="0.5"/>
-  <rect x="340" y="186" width="180" height="28" rx="4" fill="#fff0f0" stroke="#ffcdd2" stroke-width="1"/>
-  <text x="430" y="204" text-anchor="middle" font-size="11" fill="#cc0000">miniaturized grasp · real-world</text>
-
-  <text x="430" y="238" text-anchor="middle" font-size="10" fill="#cc0000">empathy · design for children · physical context</text>
-
-  <!-- Footer -->
-  <line x1="20" y1="260" x2="580" y2="260" stroke="#f5f5f5" stroke-width="1"/>
-  <text x="300" y="280" text-anchor="middle" font-size="10" fill="#ccc" font-style="italic">UIST 2020 Best Paper  ·  wearable  ·  size illusion  ·  body ownership  ·  empathy</text>
+  <line x1="30" y1="250" x2="570" y2="250" stroke="#eeeeee" stroke-width="1"/>
+  <text x="300" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#cccccc" letter-spacing="2">EMBODIMENT  ·  WEARABLE  ·  EXOSKELETON  ·  UIST 2020 BEST PAPER</text>
 </svg>
