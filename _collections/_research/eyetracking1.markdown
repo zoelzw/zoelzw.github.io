@@ -29,7 +29,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/Eyetracking1.png?raw=
 
 <div class="row">
   <div class="col-md-6">
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/eye0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="/assets/motivation_eyetracking1.svg" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">

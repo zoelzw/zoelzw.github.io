@@ -30,7 +30,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
   <div class="col-md-6">
     <br>
     <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/solar0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="/assets/motivation_solarpack.svg" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">
@@ -73,21 +73,18 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
 <hr bordercolor = "lightgrey">
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-12">
   <br>
     <h2>And beyond...</h2>
     <br>
-     <p> 
-       With the development of technology, our relationship with it is no longer only "tool use." What would be the "best" dynamic to use technology to unlock the potential of humans? For instance, how can we use the power of technology to help marginalized populations instead of using it as capital to serve the privileged? How can we sustainably use technology? 
+     <p>
+       With the development of technology, our relationship with it is no longer only "tool use." What would be the "best" dynamic to use technology to unlock the potential of humans? For instance, how can we use the power of technology to help marginalized populations instead of using it as capital to serve the privileged? How can we sustainably use technology?
     </p>
-    <p> 
+    <p>
       To attempt to answer my own questions, I worked with people with disabilities and learned about their needs and opinions on emerging technologies. I also worked on several projects related to sustainability in hackathons.
     </p>
-    <p> 
-      If you are interested, here are <a href="https://zoelzw.github.io/thoughts/Building-a-slow-car.html" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">some thoughts</a> related to this research experience. I am also curious about what others think, so feel free to <a href="mailto:ziweiliu@uchicago.edu" target="_blank" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">write to me.</a> 
+    <p>
+      If you are interested, here are <a href="https://zoelzw.github.io/thoughts/Building-a-slow-car.html" style="text-decoration: none; border-bottom: 1px solid #ff0000; color: #000000;">some thoughts</a> related to this research experience.
     </p>
-  </div>
-
-  <div class="col-md-6">
   </div>
 </div>

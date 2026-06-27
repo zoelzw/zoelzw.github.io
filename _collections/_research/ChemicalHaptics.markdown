@@ -37,7 +37,10 @@ conf: UIST 2021
 <hr bordercolor = "lightgrey">
 
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-6">
+    <img src="/assets/motivation_chemicalhaptics.svg" style='height: 100%; width: 100%; object-fit: contain'/>
+  </div>
+  <div class="col-md-6">
     <br>
     <h2>Motivation</h2>
     <p>

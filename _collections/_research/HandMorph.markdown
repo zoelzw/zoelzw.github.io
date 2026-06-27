@@ -40,7 +40,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/HandMorph.png?raw=tru
 
 <div class="row">
   <div class="col-md-6">
-    <img src="https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/hand0.png?raw=true" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="/assets/motivation_handmorph.svg" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">
