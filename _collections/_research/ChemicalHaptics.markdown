@@ -44,7 +44,13 @@ conf: UIST 2021
     <br>
     <h2>Motivation</h2>
     <p>
-      Most haptic devices rely on mechanical actuation and can only stimulate mechanoreceptors. Many skin receptors — thermoreceptors, nociceptors — are chemically sensitive and govern sensations like warmth, cold, and tingling that are hard to reproduce mechanically. Could we trigger them directly through chemistry?
+      Most haptic devices rely on mechanical actuation and can only stimulate mechanoreceptors. Yet the skin is a rich sensory surface — it can feel warmth radiating from a flame, the sharp sting of a nettle, the cooling spread of menthol, and the electric tingle of carbonation. These sensations are not mechanical — they are chemical.
+    </p>
+    <p>
+      Many skin receptors — thermoreceptors, nociceptors — are chemically sensitive and govern sensations like warmth, cold, and tingling that are hard to reproduce mechanically. Yet the haptic interfaces we design have almost entirely ignored this channel, leaving an entire dimension of human experience unexplored.
+    </p>
+    <p>
+      <i class="fa fa-chevron-right"></i> This gap matters especially as virtual reality and embodied computing become more immersive. Could we trigger chemically-sensitive receptors directly through topical stimulants — unlocking a novel, creative, and neuroscience-grounded approach to haptic design?
     </p>
   </div>
 </div>
