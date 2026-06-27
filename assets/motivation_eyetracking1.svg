@@ -1,32 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
-  <rect width="600" height="300" fill="#fafafa"/>
-
-  <!-- Hero phrase -->
-  <text x="300" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="38" fill="#1a1a1a" font-weight="bold" letter-spacing="-1">EYES ON STAIRS</text>
-
-  <!-- Motivating question -->
-  <text x="300" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#cc0000" font-style="italic">Where do amputees look approaching stairs — and what can that tell us?</text>
-
-  <line x1="160" y1="90" x2="440" y2="90" stroke="#e8e8e8" stroke-width="1"/>
-
-  <!-- Left cluster: context (gray) -->
-  <text x="95" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cccccc" font-weight="bold">visual system</text>
-  <text x="80" y="157" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#d5d5d5">terrain</text>
-  <text x="112" y="181" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#ddd">foot placement</text>
-  <text x="82" y="204" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e2e2e2">spatial map</text>
-  <text x="108" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e8e8e8">gaze fixation</text>
-
-  <!-- Center -->
-  <text x="300" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">amputees  ≠  able-bodied</text>
-  <text x="300" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#e0e0e0">↓</text>
-
-  <!-- Right cluster: impact (red) -->
-  <text x="490" y="125" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#cc0000" font-weight="bold">predict intent</text>
-  <text x="508" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#cc0000">anticipate</text>
-  <text x="476" y="177" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#cc0000">adapt control</text>
-  <text x="510" y="201" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#dd4444">robotic prosthetic</text>
-  <text x="482" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dd4444">earlier · closer · dependent</text>
-
-  <line x1="30" y1="250" x2="570" y2="250" stroke="#eeeeee" stroke-width="1"/>
-  <text x="300" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#cccccc" letter-spacing="2">EYE TRACKING  ·  TOBII PRO  ·  AMPUTEES  ·  IEEE EMBC 2019</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#ffffff"/>
+  <defs>
+    <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
+    <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
+  </defs>
+  <circle cx="250" cy="250" r="238" fill="#fafafa" stroke="#eeeeee" stroke-width="1.5"/>
+  <g clip-path="url(#c)">
+    <!-- Watermark -->
+    <text x="250" y="300" text-anchor="middle" font-family="Georgia,serif" font-size="118" fill="#f0f0f0" font-weight="bold" letter-spacing="-4">GAZE</text>
+    <!-- Hero -->
+    <text x="250" y="228" text-anchor="middle" font-family="Georgia,serif" font-size="36" fill="#cc0000" font-weight="bold" transform="rotate(-4,250,228)">where do you look?</text>
+    <!-- Impact words (red) -->
+    <text x="250" y="118" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" font-weight="bold">predict intent</text>
+    <text x="378" y="176" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" transform="rotate(11,378,176)">stairs</text>
+    <text x="375" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-9,375,330)">anticipate</text>
+    <text x="250" y="400" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" transform="rotate(3,250,400)">prosthetic control</text>
+    <text x="122" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(9,122,330)">adapt</text>
+    <text x="122" y="176" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-11,122,176)">amputees</text>
+    <!-- Support words (gray) -->
+    <text x="250" y="60" text-anchor="middle" font-family="Georgia,serif" font-size="15" fill="#777">visual system · terrain</text>
+    <text x="432" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(88,432,255)">fixation</text>
+    <text x="68" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(-88,68,255)">able-bodied</text>
+    <text x="250" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#777">foot placement · spatial map</text>
+    <text x="396" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(28,396,118)">locomotion</text>
+    <text x="104" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-28,104,118)">navigation</text>
+    <text x="396" y="388" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-25,396,388)">stair nosing</text>
+    <text x="104" y="388" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(25,104,388)">perturbation</text>
+  </g>
+  <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
+    <textPath href="#arc">IEEE EMBC 2019  ·  TOBII PRO GLASSES  ·  TRANSTIBIAL AMPUTEE  ·  EYE TRACKING  ·  LEVEL-GROUND TRANSITION  ·</textPath>
+  </text>
 </svg>

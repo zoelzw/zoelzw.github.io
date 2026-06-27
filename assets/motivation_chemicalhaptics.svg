@@ -1,31 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
-  <rect width="600" height="300" fill="#fafafa"/>
-
-  <!-- Hero phrase -->
-  <text x="300" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#1a1a1a" font-weight="bold" letter-spacing="-1">SKIN DEEP</text>
-
-  <!-- Motivating question -->
-  <text x="300" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#cc0000" font-style="italic">Can we trigger chemically-sensitive receptors directly — beyond mechanical limits?</text>
-
-  <line x1="160" y1="90" x2="440" y2="90" stroke="#e8e8e8" stroke-width="1"/>
-
-  <!-- Left cluster: existing approach (gray, fading) -->
-  <text x="95" y="133" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#cccccc" font-weight="bold">mechanical</text>
-  <text x="78" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#d8d8d8">vibration</text>
-  <text x="112" y="184" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#ddd">touch</text>
-  <text x="82" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e2e2e2">pressure</text>
-  <text x="108" y="227" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e8e8e8">mechanoreceptors</text>
-
-  <!-- Center bridge -->
-  <text x="300" y="170" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">→  topical stimulants  →</text>
-
-  <!-- Right cluster: new sensations unlocked (red) -->
-  <text x="492" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#cc0000" font-weight="bold">warmth</text>
-  <text x="524" y="155" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#cc0000">cold</text>
-  <text x="478" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#cc0000">tingling</text>
-  <text x="516" y="203" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#dd4444">stinging</text>
-  <text x="484" y="225" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#dd4444">numbing</text>
-
-  <line x1="30" y1="250" x2="570" y2="250" stroke="#eeeeee" stroke-width="1"/>
-  <text x="300" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#cccccc" letter-spacing="2">WEARABLE  ·  MICROPUMP  ·  SKIN CHEMISTRY  ·  UIST 2021</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#ffffff"/>
+  <defs>
+    <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
+    <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
+  </defs>
+  <!-- Circle -->
+  <circle cx="250" cy="250" r="238" fill="#fafafa" stroke="#eeeeee" stroke-width="1.5"/>
+  <g clip-path="url(#c)">
+    <!-- Watermark -->
+    <text x="250" y="282" text-anchor="middle" font-family="Georgia,serif" font-size="78" fill="#f0f0f0" font-weight="bold" letter-spacing="-2">SENSATION</text>
+    <!-- Hero -->
+    <text x="250" y="232" text-anchor="middle" font-family="Georgia,serif" font-size="38" fill="#cc0000" font-weight="bold" transform="rotate(-4,250,232)">chemistry</text>
+    <!-- Impact words (red, inner ring) -->
+    <text x="250" y="118" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#cc0000" font-weight="bold" transform="rotate(-5,250,118)">warmth</text>
+    <text x="375" y="175" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" transform="rotate(12,375,175)">cold</text>
+    <text x="378" y="332" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-10,378,332)">stinging</text>
+    <text x="250" y="398" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(4,250,398)">numbing</text>
+    <text x="125" y="332" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(10,125,332)">tingling</text>
+    <text x="122" y="175" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(-12,122,175)">cooling</text>
+    <!-- Support words (mid ring, dark gray) -->
+    <text x="250" y="60" text-anchor="middle" font-family="Georgia,serif" font-size="15" fill="#777" transform="rotate(-2,250,60)">skin receptors</text>
+    <text x="432" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(88,432,255)">wearable</text>
+    <text x="68" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(-88,68,255)">nociceptors</text>
+    <text x="250" y="450" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#777">topical stimulants</text>
+    <text x="398" y="122" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(28,398,122)">thermoreceptors</text>
+    <text x="102" y="122" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-28,102,122)">mechanoreceptors</text>
+    <text x="398" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-25,398,385)">micropump</text>
+    <text x="102" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(25,102,385)">silicone patch</text>
+  </g>
+  <!-- Outer arc text -->
+  <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
+    <textPath href="#arc">UIST 2021  ·  HAPTIC INTERFACE  ·  WEARABLE  ·  SANSHOOL  ·  LIDOCAINE  ·  CAPSAICIN  ·  MENTHOL  ·  CINNAMALDEHYDE  ·</textPath>
+  </text>
 </svg>

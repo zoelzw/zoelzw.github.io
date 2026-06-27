@@ -1,32 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
-  <rect width="600" height="300" fill="#fafafa"/>
-
-  <!-- Hero phrase -->
-  <text x="300" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#1a1a1a" font-weight="bold" letter-spacing="-1">VIRTUAL GROUND</text>
-
-  <!-- Motivating question -->
-  <text x="300" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#cc0000" font-style="italic">Does training on virtual obstacles transfer to real-world performance?</text>
-
-  <line x1="160" y1="90" x2="440" y2="90" stroke="#e8e8e8" stroke-width="1"/>
-
-  <!-- Left cluster: physical limitations (gray) -->
-  <text x="95" y="133" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cccccc" font-weight="bold">physical</text>
-  <text x="80" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#d8d8d8">risky</text>
-  <text x="108" y="184" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#ddd">inflexible</text>
-  <text x="82" y="206" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#e2e2e2">clinical limits</text>
-  <text x="108" y="227" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e8e8e8">hard to set up</text>
-
-  <!-- Center bridge -->
-  <text x="300" y="162" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">HoloLens AR</text>
-  <text x="300" y="178" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">↕</text>
-
-  <!-- Right cluster: AR opportunity (red) -->
-  <text x="492" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#cc0000" font-weight="bold">programmable</text>
-  <text x="510" y="155" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cc0000">safe</text>
-  <text x="475" y="180" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#cc0000">scalable</text>
-  <text x="510" y="204" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#dd4444">rehabilitation</text>
-  <text x="482" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dd4444">does it transfer?</text>
-
-  <line x1="30" y1="250" x2="570" y2="250" stroke="#eeeeee" stroke-width="1"/>
-  <text x="300" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#cccccc" letter-spacing="2">MIXED REALITY  ·  VICON  ·  GAIT  ·  BMES 2018</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#ffffff"/>
+  <defs>
+    <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
+    <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
+  </defs>
+  <circle cx="250" cy="250" r="238" fill="#fafafa" stroke="#eeeeee" stroke-width="1.5"/>
+  <g clip-path="url(#c)">
+    <!-- Watermark -->
+    <text x="250" y="285" text-anchor="middle" font-family="Georgia,serif" font-size="84" fill="#f0f0f0" font-weight="bold" letter-spacing="-2">TRAINING</text>
+    <!-- Hero -->
+    <text x="250" y="235" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#cc0000" font-weight="bold" transform="rotate(-3,250,235)">does it transfer?</text>
+    <!-- Impact words (red) -->
+    <text x="250" y="120" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#cc0000" font-weight="bold" transform="rotate(-6,250,120)">programmable</text>
+    <text x="382" y="180" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" transform="rotate(10,382,180)">safe</text>
+    <text x="372" y="326" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-9,372,326)">scalable</text>
+    <text x="250" y="400" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(3,250,400)">rehabilitation</text>
+    <text x="128" y="326" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(9,128,326)">AR obstacles</text>
+    <text x="118" y="180" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(-12,118,180)">HoloLens</text>
+    <!-- Support words (gray) -->
+    <text x="250" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="15" fill="#777">obstacle avoidance</text>
+    <text x="432" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(88,432,255)">physical</text>
+    <text x="68" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(-88,68,255)">clinical</text>
+    <text x="250" y="450" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#777">gait · mobility · balance</text>
+    <text x="396" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(28,396,120)">risky</text>
+    <text x="104" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(-28,104,120)">limited</text>
+    <text x="396" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-25,396,385)">mixed reality</text>
+    <text x="104" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(25,104,385)">inflexible</text>
+  </g>
+  <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
+    <textPath href="#arc">BMES 2018  ·  HOLOLENS  ·  VICON MOTION CAPTURE  ·  MIXED REALITY  ·  AMPUTEE  ·  STROKE  ·  OBSTACLE TRAINING  ·</textPath>
+  </text>
 </svg>

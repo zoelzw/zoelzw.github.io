@@ -1,32 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
-  <rect width="600" height="300" fill="#fafafa"/>
-
-  <!-- Hero phrase -->
-  <text x="300" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="40" fill="#1a1a1a" font-weight="bold" letter-spacing="-1">SOLAR FOR ALL</text>
-
-  <!-- Motivating question -->
-  <text x="300" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#cc0000" font-style="italic">Can a solar vehicle be competitive on the track and practical off it?</text>
-
-  <line x1="160" y1="90" x2="440" y2="90" stroke="#e8e8e8" stroke-width="1"/>
-
-  <!-- Left cluster: existing solar racers (gray) -->
-  <text x="95" y="130" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#cccccc" font-weight="bold">typical racer</text>
-  <text x="80" y="158" text-anchor="middle" font-family="Georgia, serif" font-size="17" fill="#d8d8d8">1 occupant</text>
-  <text x="110" y="183" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#ddd">track only</text>
-  <text x="84" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#e2e2e2">competition only</text>
-  <text x="108" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#e8e8e8">aerodynamic · narrow</text>
-
-  <!-- Center bridge -->
-  <text x="300" y="163" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">SolarPack vision</text>
-  <text x="300" y="179" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#bbbbbb" font-style="italic">NC State · first team</text>
-
-  <!-- Right cluster: SolarPack (red) -->
-  <text x="490" y="125" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#cc0000" font-weight="bold">4 occupants</text>
-  <text x="508" y="152" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#cc0000">road-ready</text>
-  <text x="476" y="177" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#cc0000">practical</text>
-  <text x="510" y="201" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#dd4444">everyday solar</text>
-  <text x="484" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#dd4444">compete  ·  commute  ·  sustain</text>
-
-  <line x1="30" y1="250" x2="570" y2="250" stroke="#eeeeee" stroke-width="1"/>
-  <text x="300" y="272" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#cccccc" letter-spacing="2">SOLAR ENERGY  ·  BMS  ·  PCB  ·  FSGP 2017</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="#ffffff"/>
+  <defs>
+    <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
+    <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
+  </defs>
+  <circle cx="250" cy="250" r="238" fill="#fafafa" stroke="#eeeeee" stroke-width="1.5"/>
+  <g clip-path="url(#c)">
+    <!-- Watermark -->
+    <text x="250" y="296" text-anchor="middle" font-family="Georgia,serif" font-size="110" fill="#f0f0f0" font-weight="bold" letter-spacing="-3">SOLAR</text>
+    <!-- Hero -->
+    <text x="250" y="228" text-anchor="middle" font-family="Georgia,serif" font-size="36" fill="#cc0000" font-weight="bold" transform="rotate(-4,250,228)">solar for all</text>
+    <!-- Impact words (red) -->
+    <text x="250" y="115" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#cc0000" font-weight="bold">4 occupants</text>
+    <text x="376" y="174" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" transform="rotate(11,376,174)">compete</text>
+    <text x="376" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(-9,376,330)">commute</text>
+    <text x="250" y="400" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" transform="rotate(3,250,400)">road-ready</text>
+    <text x="124" y="330" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(9,124,330)">practical</text>
+    <text x="124" y="174" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-11,124,174)">sustainable</text>
+    <!-- Support words (gray) -->
+    <text x="250" y="60" text-anchor="middle" font-family="Georgia,serif" font-size="15" fill="#777">Formula Sun Grand Prix · NC State</text>
+    <text x="432" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#bbb" transform="rotate(88,432,255)">1 occupant</text>
+    <text x="68" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#bbb" transform="rotate(-88,68,255)">track only</text>
+    <text x="250" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#777">BMS · CAN bus · PCB design</text>
+    <text x="396" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(28,396,118)">aerodynamic</text>
+    <text x="104" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-28,104,118)">competition</text>
+    <text x="396" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-25,396,385)">solar panels</text>
+    <text x="104" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(25,104,385)">ASC qualifier</text>
+  </g>
+  <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
+    <textPath href="#arc">FSGP 2017  ·  AMERICAN SOLAR CHALLENGE  ·  NC STATE  ·  BATTERY MANAGEMENT  ·  SOLAR ENERGY  ·  WELDING  ·</textPath>
+  </text>
 </svg>
