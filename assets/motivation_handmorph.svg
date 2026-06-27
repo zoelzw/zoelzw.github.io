@@ -1,65 +1,75 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
-  <rect width="500" height="500" fill="#ffffff"/>
+  <rect width="500" height="500" fill="#fff"/>
   <defs>
-    <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
-    <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
+    <clipPath id="c"><circle cx="250" cy="250" r="236"/></clipPath>
+    <path id="arc" d="M250,15 a235,235 0 1,1 -0.1,0"/>
   </defs>
-  <circle cx="250" cy="250" r="238" fill="#fff" stroke="#f0f0f0" stroke-width="1.5"/>
-  <g clip-path="url(#c)">
-    <!-- background -->
-    <text x="148" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-7,148,62)">hand</text>
-    <text x="250" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5">grasp</text>
-    <text x="352" y="63" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(6,352,63)">body</text>
-    <text x="95" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-11,95,82)">wearable</text>
-    <text x="182" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(4,182,80)">illusion</text>
-    <text x="275" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ededed" transform="rotate(-5,275,78)">touch</text>
-    <text x="362" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(8,362,82)">children</text>
-    <text x="418" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-4,418,80)">size</text>
-    <text x="72" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-13,72,105)">virtual</text>
-    <text x="172" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5" transform="rotate(5,172,102)">finger</text>
-    <text x="250" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eaeaea">grasp</text>
-    <text x="332" y="104" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-6,332,104)">hand</text>
-    <text x="425" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(9,425,102)">body</text>
-    <text x="48" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-15,48,132)">illusion</text>
-    <text x="145" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eaeaea" transform="rotate(7,145,130)">touch</text>
-    <text x="352" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-8,352,132)">size</text>
-    <text x="448" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(5,448,130)">wearable</text>
-    <text x="30" y="162" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-10,30,162)">hand</text>
-    <text x="462" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(8,462,160)">grasp</text>
-    <text x="28" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-12,28,200)">children</text>
-    <text x="462" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(10,462,200)">finger</text>
-    <text x="22" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eee" transform="rotate(-90,22,250)">virtual</text>
-    <text x="478" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eee" transform="rotate(90,478,250)">body</text>
-    <text x="28" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-8,28,300)">size</text>
-    <text x="462" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(10,462,300)">illusion</text>
-    <text x="35" y="338" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-6,35,338)">touch</text>
-    <text x="462" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(8,462,340)">wearable</text>
-    <text x="50" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-10,50,372)">grasp</text>
-    <text x="448" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(8,448,372)">hand</text>
-    <text x="78" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-12,78,400)">children</text>
-    <text x="185" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(4,185,405)">finger</text>
-    <text x="338" y="402" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-5,338,402)">body</text>
-    <text x="418" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(10,418,400)">size</text>
-    <text x="102" y="428" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-8,102,428)">virtual</text>
-    <text x="250" y="432" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5">grasp</text>
-    <text x="395" y="426" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(7,395,426)">touch</text>
-    <text x="150" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-5,150,452)">illusion</text>
-    <text x="352" y="450" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(5,352,450)">hand</text>
-    <!-- medium -->
-    <text x="250" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#bbb" transform="rotate(3,250,300)">body ownership</text>
-    <text x="138" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(8,138,345)">VR illusion</text>
-    <text x="362" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(-6,362,345)">toy design</text>
-    <text x="250" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#ccc" transform="rotate(-4,250,168)">embodied interaction</text>
-    <text x="105" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ccc" transform="rotate(-8,105,255)">exoskeleton</text>
-    <text x="398" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ccc" transform="rotate(8,398,255)">joint</text>
-    <!-- KEY words -->
-    <text x="250" y="215" text-anchor="middle" font-family="Georgia,serif" font-size="40" fill="#cc0000" font-weight="bold" transform="rotate(-3,250,215)">empathy</text>
-    <text x="152" y="138" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" font-weight="bold" transform="rotate(-10,152,138)">real world</text>
-    <text x="372" y="145" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(9,372,145)">miniaturize</text>
-    <text x="128" y="312" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(11,128,312)">passive</text>
-    <text x="376" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(-9,376,318)">children</text>
-    <text x="250" y="382" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" font-weight="bold" transform="rotate(4,250,382)">feel smaller</text>
-    <text x="250" y="262" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#dd4444" font-style="italic">physical context</text>
+  <circle cx="250" cy="250" r="236" fill="#fff" stroke="#eee" stroke-width="1"/>
+  <g clip-path="url(#c)" font-family="Arial, sans-serif">
+    <text x="152" y="52" text-anchor="middle" font-size="10" fill="#ddd">hand</text>
+    <text x="210" y="52" text-anchor="middle" font-size="10" fill="#ddd">grasp</text>
+    <text x="270" y="52" text-anchor="middle" font-size="10" fill="#ddd">body</text>
+    <text x="330" y="52" text-anchor="middle" font-size="10" fill="#ddd">touch</text>
+    <text x="108" y="66" text-anchor="middle" font-size="10" fill="#ccc">wearable</text>
+    <text x="182" y="66" text-anchor="middle" font-size="10" fill="#ccc">illusion</text>
+    <text x="252" y="66" text-anchor="middle" font-size="10" fill="#ccc">size</text>
+    <text x="315" y="66" text-anchor="middle" font-size="10" fill="#ccc">children</text>
+    <text x="380" y="66" text-anchor="middle" font-size="10" fill="#ccc">finger</text>
+    <text x="82" y="82" text-anchor="middle" font-size="11" fill="#bbb">virtual</text>
+    <text x="165" y="82" text-anchor="middle" font-size="11" fill="#bbb">grasp</text>
+    <text x="248" y="82" text-anchor="middle" font-size="11" fill="#bbb">joint</text>
+    <text x="322" y="82" text-anchor="middle" font-size="11" fill="#bbb">hand</text>
+    <text x="412" y="82" text-anchor="middle" font-size="11" fill="#bbb">passive</text>
+    <text x="68" y="100" text-anchor="middle" font-size="12" fill="#aaa" transform="rotate(-5,68,100)">size</text>
+    <text x="172" y="100" text-anchor="middle" font-size="12" fill="#aaa">body owner</text>
+    <text x="265" y="100" text-anchor="middle" font-size="12" fill="#aaa">touch</text>
+    <text x="345" y="100" text-anchor="middle" font-size="12" fill="#aaa">social bias</text>
+    <text x="420" y="100" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(5,420,100)">body</text>
+    <text x="50" y="120" text-anchor="middle" font-size="13" fill="#aaa" transform="rotate(-6,50,120)">illusion</text>
+    <text x="155" y="120" text-anchor="middle" font-size="14" fill="#888">body ownership</text>
+    <text x="350" y="120" text-anchor="middle" font-size="14" fill="#888">exoskeleton</text>
+    <text x="452" y="120" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(6,452,120)">joint</text>
+    <text x="40" y="142" text-anchor="middle" font-size="13" fill="#aaa" transform="rotate(-8,40,142)">VR</text>
+    <text x="150" y="142" text-anchor="middle" font-size="16" fill="#666">VR size illusion</text>
+    <text x="345" y="142" text-anchor="middle" font-size="15" fill="#666">wearable device</text>
+    <text x="455" y="142" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(7,455,142)">size</text>
+    <text x="30" y="162" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-10,30,162)">touch</text>
+    <text x="148" y="162" text-anchor="middle" font-size="16" fill="#555">embodied cognition</text>
+    <text x="358" y="162" text-anchor="middle" font-size="15" fill="#666">physical context</text>
+    <text x="460" y="162" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(8,460,162)">grasp</text>
+    <text x="148" y="196" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" font-weight="bold" transform="rotate(-5,148,196)">real world</text>
+    <text x="395" y="192" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" font-weight="bold" transform="rotate(5,395,192)">passive</text>
+    <text x="22" y="222" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-90,22,222)">VR</text>
+    <text x="155" y="222" text-anchor="middle" font-size="14" fill="#888">miniaturize</text>
+    <text x="268" y="222" text-anchor="middle" font-size="14" fill="#888">body empathy</text>
+    <text x="395" y="222" text-anchor="middle" font-size="13" fill="#aaa">children</text>
+    <text x="462" y="222" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(90,462,222)">hand</text>
+    <text x="250" y="262" text-anchor="middle" font-family="Georgia,serif" font-size="44" fill="#cc0000" font-weight="bold" transform="rotate(-2,250,262)">empathy</text>
+    <text x="22" y="288" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(-90,22,288)">grasp</text>
+    <text x="135" y="290" text-anchor="middle" font-size="14" fill="#888">feel smaller</text>
+    <text x="252" y="290" text-anchor="middle" font-size="15" fill="#555" font-style="italic">toy design</text>
+    <text x="375" y="290" text-anchor="middle" font-size="13" fill="#aaa">ergonomics</text>
+    <text x="462" y="288" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(90,462,288)">body</text>
+    <text x="138" y="328" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" font-weight="bold" transform="rotate(8,138,328)">children</text>
+    <text x="390" y="328" text-anchor="middle" font-family="Georgia,serif" font-size="21" fill="#cc0000" transform="rotate(-6,390,328)">grasp</text>
+    <text x="30" y="355" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-10,30,355)">VR</text>
+    <text x="145" y="355" text-anchor="middle" font-size="13" fill="#aaa">joint actuation</text>
+    <text x="255" y="355" text-anchor="middle" font-size="14" fill="#888">wearable patch</text>
+    <text x="382" y="355" text-anchor="middle" font-size="13" fill="#aaa">social bias</text>
+    <text x="460" y="355" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(8,460,355)">touch</text>
+    <text x="250" y="390" text-anchor="middle" font-family="Georgia,serif" font-size="27" fill="#cc0000" font-weight="bold" transform="rotate(3,250,390)">feel smaller</text>
+    <text x="72" y="415" text-anchor="middle" font-size="13" fill="#aaa" transform="rotate(-8,72,415)">hand</text>
+    <text x="162" y="415" text-anchor="middle" font-size="13" fill="#aaa">finger</text>
+    <text x="252" y="415" text-anchor="middle" font-size="13" fill="#aaa">grasp</text>
+    <text x="338" y="415" text-anchor="middle" font-size="13" fill="#aaa">passive</text>
+    <text x="425" y="415" text-anchor="middle" font-size="12" fill="#bbb" transform="rotate(6,425,415)">wearable</text>
+    <text x="110" y="433" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-5,110,433)">illusion</text>
+    <text x="208" y="433" text-anchor="middle" font-size="11" fill="#bbb">body size</text>
+    <text x="298" y="433" text-anchor="middle" font-size="11" fill="#bbb">ownership</text>
+    <text x="388" y="433" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(5,388,433)">joint</text>
+    <text x="152" y="450" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(-4,152,450)">touch</text>
+    <text x="252" y="450" text-anchor="middle" font-size="10" fill="#ccc">grasp</text>
+    <text x="346" y="450" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(4,346,450)">hand</text>
   </g>
   <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
     <textPath href="#arc">UIST 2020 BEST PAPER  ·  PASSIVE EXOSKELETON  ·  EMBODIMENT  ·  MINIATURIZED GRASP  ·  WEARABLE  ·</textPath>

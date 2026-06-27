@@ -1,65 +1,75 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
-  <rect width="500" height="500" fill="#ffffff"/>
+  <rect width="500" height="500" fill="#fff"/>
   <defs>
-    <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
-    <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
+    <clipPath id="c"><circle cx="250" cy="250" r="236"/></clipPath>
+    <path id="arc" d="M250,15 a235,235 0 1,1 -0.1,0"/>
   </defs>
-  <circle cx="250" cy="250" r="238" fill="#fff" stroke="#f0f0f0" stroke-width="1.5"/>
-  <g clip-path="url(#c)">
-    <!-- background -->
-    <text x="148" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-7,148,62)">solar</text>
-    <text x="250" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5">race</text>
-    <text x="352" y="63" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(6,352,63)">energy</text>
-    <text x="95" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-11,95,82)">vehicle</text>
-    <text x="182" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(4,182,80)">panel</text>
-    <text x="275" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ededed" transform="rotate(-5,275,78)">track</text>
-    <text x="362" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(8,362,82)">battery</text>
-    <text x="418" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-4,418,80)">motor</text>
-    <text x="72" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-13,72,105)">PCB</text>
-    <text x="172" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5" transform="rotate(5,172,102)">speed</text>
-    <text x="250" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eaeaea">solar</text>
-    <text x="332" y="104" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-6,332,104)">race</text>
-    <text x="425" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(9,425,102)">circuit</text>
-    <text x="48" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-15,48,132)">panel</text>
-    <text x="145" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eaeaea" transform="rotate(7,145,130)">energy</text>
-    <text x="352" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-8,352,132)">vehicle</text>
-    <text x="448" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(5,448,130)">track</text>
-    <text x="30" y="162" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-10,30,162)">solar</text>
-    <text x="462" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(8,462,160)">battery</text>
-    <text x="28" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-12,28,200)">motor</text>
-    <text x="462" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(10,462,200)">speed</text>
-    <text x="22" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eee" transform="rotate(-90,22,250)">PCB</text>
-    <text x="478" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eee" transform="rotate(90,478,250)">road</text>
-    <text x="28" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-8,28,300)">energy</text>
-    <text x="462" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(10,462,300)">race</text>
-    <text x="35" y="338" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-6,35,338)">panel</text>
-    <text x="462" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(8,462,340)">circuit</text>
-    <text x="50" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-10,50,372)">solar</text>
-    <text x="448" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(8,448,372)">vehicle</text>
-    <text x="78" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-12,78,400)">battery</text>
-    <text x="185" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(4,185,405)">track</text>
-    <text x="338" y="402" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-5,338,402)">motor</text>
-    <text x="418" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(10,418,400)">speed</text>
-    <text x="102" y="428" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-8,102,428)">PCB</text>
-    <text x="250" y="432" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5">solar</text>
-    <text x="395" y="426" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(7,395,426)">race</text>
-    <text x="150" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-5,150,452)">energy</text>
-    <text x="352" y="450" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(5,352,450)">panel</text>
-    <!-- medium -->
-    <text x="250" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#bbb" transform="rotate(3,250,300)">Formula Sun Grand Prix</text>
-    <text x="138" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(8,138,345)">NC State</text>
-    <text x="362" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(-6,362,345)">CAN bus · BMS</text>
-    <text x="250" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#ccc" transform="rotate(-4,250,168)">sustainable mobility</text>
-    <text x="105" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ccc" transform="rotate(-8,105,255)">1 occupant</text>
-    <text x="398" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ccc" transform="rotate(8,398,255)">off-track</text>
-    <!-- KEY words -->
-    <text x="250" y="215" text-anchor="middle" font-family="Georgia,serif" font-size="44" fill="#cc0000" font-weight="bold" transform="rotate(-3,250,215)">solar</text>
-    <text x="152" y="138" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" font-weight="bold" transform="rotate(-10,152,138)">compete</text>
-    <text x="372" y="145" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(9,372,145)">commute</text>
-    <text x="128" y="312" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(11,128,312)">4 seats</text>
-    <text x="376" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(-9,376,318)">road-ready</text>
-    <text x="250" y="382" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" font-weight="bold" transform="rotate(4,250,382)">for everyone</text>
-    <text x="250" y="262" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#dd4444" font-style="italic">practical</text>
+  <circle cx="250" cy="250" r="236" fill="#fff" stroke="#eee" stroke-width="1"/>
+  <g clip-path="url(#c)" font-family="Arial, sans-serif">
+    <text x="152" y="52" text-anchor="middle" font-size="10" fill="#ddd">solar</text>
+    <text x="210" y="52" text-anchor="middle" font-size="10" fill="#ddd">race</text>
+    <text x="265" y="52" text-anchor="middle" font-size="10" fill="#ddd">energy</text>
+    <text x="330" y="52" text-anchor="middle" font-size="10" fill="#ddd">panel</text>
+    <text x="108" y="66" text-anchor="middle" font-size="10" fill="#ccc">vehicle</text>
+    <text x="178" y="66" text-anchor="middle" font-size="10" fill="#ccc">track</text>
+    <text x="248" y="66" text-anchor="middle" font-size="10" fill="#ccc">battery</text>
+    <text x="315" y="66" text-anchor="middle" font-size="10" fill="#ccc">motor</text>
+    <text x="380" y="66" text-anchor="middle" font-size="10" fill="#ccc">PCB</text>
+    <text x="82" y="82" text-anchor="middle" font-size="11" fill="#bbb">speed</text>
+    <text x="162" y="82" text-anchor="middle" font-size="11" fill="#bbb">circuit</text>
+    <text x="248" y="82" text-anchor="middle" font-size="11" fill="#bbb">solar</text>
+    <text x="328" y="82" text-anchor="middle" font-size="11" fill="#bbb">race</text>
+    <text x="408" y="82" text-anchor="middle" font-size="11" fill="#bbb">road</text>
+    <text x="68" y="100" text-anchor="middle" font-size="12" fill="#aaa" transform="rotate(-5,68,100)">panel</text>
+    <text x="170" y="100" text-anchor="middle" font-size="12" fill="#aaa">energy</text>
+    <text x="252" y="100" text-anchor="middle" font-size="12" fill="#aaa">BMS</text>
+    <text x="332" y="100" text-anchor="middle" font-size="12" fill="#aaa">CAN bus</text>
+    <text x="418" y="100" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(5,418,100)">battery</text>
+    <text x="50" y="120" text-anchor="middle" font-size="13" fill="#aaa" transform="rotate(-6,50,120)">welding</text>
+    <text x="152" y="120" text-anchor="middle" font-size="14" fill="#888">sustainability</text>
+    <text x="308" y="120" text-anchor="middle" font-size="14" fill="#888">multi-occupancy</text>
+    <text x="440" y="120" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(5,440,120)">motor</text>
+    <text x="40" y="142" text-anchor="middle" font-size="13" fill="#aaa" transform="rotate(-8,40,142)">PCB</text>
+    <text x="145" y="142" text-anchor="middle" font-size="16" fill="#666">Formula Sun Grand Prix</text>
+    <text x="370" y="142" text-anchor="middle" font-size="15" fill="#666">1 occupant</text>
+    <text x="455" y="142" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(7,455,142)">road</text>
+    <text x="30" y="162" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-10,30,162)">track</text>
+    <text x="145" y="162" text-anchor="middle" font-size="16" fill="#555">competition</text>
+    <text x="360" y="162" text-anchor="middle" font-size="15" fill="#666">NC State</text>
+    <text x="460" y="162" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(8,460,162)">solar</text>
+    <text x="145" y="196" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#cc0000" font-weight="bold" transform="rotate(-5,145,196)">compete</text>
+    <text x="392" y="192" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" font-weight="bold" transform="rotate(5,392,192)">commute</text>
+    <text x="22" y="222" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-90,22,222)">track</text>
+    <text x="155" y="222" text-anchor="middle" font-size="14" fill="#888">road-ready</text>
+    <text x="268" y="222" text-anchor="middle" font-size="14" fill="#888">practical mobility</text>
+    <text x="395" y="222" text-anchor="middle" font-size="13" fill="#aaa">everyday</text>
+    <text x="462" y="222" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(90,462,222)">solar</text>
+    <text x="250" y="262" text-anchor="middle" font-family="Georgia,serif" font-size="50" fill="#cc0000" font-weight="bold" transform="rotate(-2,250,262)">solar</text>
+    <text x="22" y="288" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(-90,22,288)">race</text>
+    <text x="135" y="290" text-anchor="middle" font-size="14" fill="#888">off-track</text>
+    <text x="252" y="290" text-anchor="middle" font-size="15" fill="#555" font-style="italic">for everyone</text>
+    <text x="375" y="290" text-anchor="middle" font-size="13" fill="#aaa">sustainable</text>
+    <text x="462" y="288" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(90,462,288)">panel</text>
+    <text x="135" y="328" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" font-weight="bold" transform="rotate(8,135,328)">4 seats</text>
+    <text x="392" y="328" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-6,392,328)">road-ready</text>
+    <text x="30" y="355" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-10,30,355)">BMS</text>
+    <text x="145" y="355" text-anchor="middle" font-size="13" fill="#aaa">CAN bus</text>
+    <text x="255" y="355" text-anchor="middle" font-size="14" fill="#888">solar energy</text>
+    <text x="382" y="355" text-anchor="middle" font-size="13" fill="#aaa">battery</text>
+    <text x="460" y="355" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(8,460,355)">PCB</text>
+    <text x="250" y="390" text-anchor="middle" font-family="Georgia,serif" font-size="27" fill="#cc0000" font-weight="bold" transform="rotate(3,250,390)">practical</text>
+    <text x="72" y="415" text-anchor="middle" font-size="13" fill="#aaa" transform="rotate(-8,72,415)">solar</text>
+    <text x="162" y="415" text-anchor="middle" font-size="13" fill="#aaa">panel</text>
+    <text x="252" y="415" text-anchor="middle" font-size="13" fill="#aaa">vehicle</text>
+    <text x="338" y="415" text-anchor="middle" font-size="13" fill="#aaa">road</text>
+    <text x="422" y="415" text-anchor="middle" font-size="12" fill="#bbb" transform="rotate(6,422,415)">energy</text>
+    <text x="110" y="433" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(-5,110,433)">race</text>
+    <text x="205" y="433" text-anchor="middle" font-size="11" fill="#bbb">motor</text>
+    <text x="295" y="433" text-anchor="middle" font-size="11" fill="#bbb">battery</text>
+    <text x="385" y="433" text-anchor="middle" font-size="11" fill="#bbb" transform="rotate(5,385,433)">track</text>
+    <text x="152" y="450" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(-4,152,450)">solar</text>
+    <text x="252" y="450" text-anchor="middle" font-size="10" fill="#ccc">race</text>
+    <text x="346" y="450" text-anchor="middle" font-size="10" fill="#ccc" transform="rotate(4,346,450)">energy</text>
   </g>
   <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
     <textPath href="#arc">FSGP 2017  ·  AMERICAN SOLAR CHALLENGE  ·  NC STATE  ·  BATTERY MANAGEMENT  ·  CAN BUS  ·  WELDING  ·</textPath>
