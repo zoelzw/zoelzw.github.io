@@ -4,30 +4,64 @@
     <clipPath id="c"><circle cx="250" cy="250" r="238"/></clipPath>
     <path id="arc" d="M250,14 a236,236 0 1,1 -0.1,0"/>
   </defs>
-  <circle cx="250" cy="250" r="238" fill="#fafafa" stroke="#eeeeee" stroke-width="1.5"/>
+  <circle cx="250" cy="250" r="238" fill="#fff" stroke="#f0f0f0" stroke-width="1.5"/>
   <g clip-path="url(#c)">
-    <!-- Watermark -->
-    <text x="250" y="285" text-anchor="middle" font-family="Georgia,serif" font-size="84" fill="#f0f0f0" font-weight="bold" letter-spacing="-2">TRAINING</text>
-    <!-- Hero -->
-    <text x="250" y="235" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#cc0000" font-weight="bold" transform="rotate(-3,250,235)">does it transfer?</text>
-    <!-- Impact words (red) -->
-    <text x="250" y="120" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#cc0000" font-weight="bold" transform="rotate(-6,250,120)">programmable</text>
-    <text x="382" y="180" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" transform="rotate(10,382,180)">safe</text>
-    <text x="372" y="326" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(-9,372,326)">scalable</text>
-    <text x="250" y="400" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(3,250,400)">rehabilitation</text>
-    <text x="128" y="326" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(9,128,326)">AR obstacles</text>
-    <text x="118" y="180" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(-12,118,180)">HoloLens</text>
-    <!-- Support words (gray) -->
-    <text x="250" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="15" fill="#777">obstacle avoidance</text>
-    <text x="432" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(88,432,255)">physical</text>
-    <text x="68" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#888" transform="rotate(-88,68,255)">clinical</text>
-    <text x="250" y="450" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#777">gait · mobility · balance</text>
-    <text x="396" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(28,396,120)">risky</text>
-    <text x="104" y="120" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(-28,104,120)">limited</text>
-    <text x="396" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(-25,396,385)">mixed reality</text>
-    <text x="104" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#aaa" transform="rotate(25,104,385)">inflexible</text>
+    <!-- background -->
+    <text x="148" y="62" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-7,148,62)">training</text>
+    <text x="250" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5">obstacle</text>
+    <text x="355" y="63" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(6,355,63)">gait</text>
+    <text x="95" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-11,95,82)">physical</text>
+    <text x="185" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(4,185,80)">clinical</text>
+    <text x="275" y="78" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ededed" transform="rotate(-5,275,78)">trial</text>
+    <text x="362" y="82" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(8,362,82)">balance</text>
+    <text x="418" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-4,418,80)">mobility</text>
+    <text x="72" y="105" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-13,72,105)">course</text>
+    <text x="170" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5" transform="rotate(5,170,102)">step</text>
+    <text x="250" y="100" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eaeaea">amputee</text>
+    <text x="332" y="104" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-6,332,104)">stroke</text>
+    <text x="425" y="102" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(9,425,102)">sensor</text>
+    <text x="48" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-15,48,132)">risky</text>
+    <text x="145" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eaeaea" transform="rotate(7,145,130)">limited</text>
+    <text x="352" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-8,352,132)">setup</text>
+    <text x="448" y="130" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(5,448,130)">session</text>
+    <text x="30" y="162" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-10,30,162)">training</text>
+    <text x="462" y="160" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(8,462,160)">obstacle</text>
+    <text x="30" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-12,30,200)">clinical</text>
+    <text x="462" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(10,462,200)">gait</text>
+    <text x="22" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eee" transform="rotate(-90,22,250)">physical</text>
+    <text x="478" y="250" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eee" transform="rotate(90,478,250)">virtual</text>
+    <text x="30" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-8,30,300)">course</text>
+    <text x="462" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(10,462,300)">balance</text>
+    <text x="35" y="338" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(-6,35,338)">risky</text>
+    <text x="462" y="340" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#eeeeee" transform="rotate(8,462,340)">limited</text>
+    <text x="50" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(-10,50,372)">mobility</text>
+    <text x="448" y="372" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(8,448,372)">trial</text>
+    <text x="78" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-12,78,400)">amputee</text>
+    <text x="185" y="405" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(4,185,405)">stroke</text>
+    <text x="338" y="402" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-5,338,402)">session</text>
+    <text x="418" y="400" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#ebebeb" transform="rotate(10,418,400)">setup</text>
+    <text x="102" y="428" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-8,102,428)">sensor</text>
+    <text x="250" y="432" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e5e5e5">obstacle</text>
+    <text x="395" y="426" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(7,395,426)">training</text>
+    <text x="150" y="452" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(-5,150,452)">physical</text>
+    <text x="352" y="450" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#e8e8e8" transform="rotate(5,352,450)">clinical</text>
+    <!-- medium -->
+    <text x="250" y="300" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#bbb" transform="rotate(3,250,300)">does it transfer?</text>
+    <text x="138" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(8,138,345)">inflexible</text>
+    <text x="364" y="345" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#bbb" transform="rotate(-6,364,345)">Vicon capture</text>
+    <text x="250" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#ccc" transform="rotate(-4,250,168)">augmented reality</text>
+    <text x="105" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ccc" transform="rotate(-8,105,255)">gait analysis</text>
+    <text x="398" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#ccc" transform="rotate(8,398,255)">hologram</text>
+    <!-- KEY words -->
+    <text x="250" y="215" text-anchor="middle" font-family="Georgia,serif" font-size="40" fill="#cc0000" font-weight="bold" transform="rotate(-3,250,215)">programmable</text>
+    <text x="152" y="138" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#cc0000" font-weight="bold" transform="rotate(-10,152,138)">safe</text>
+    <text x="372" y="145" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#cc0000" transform="rotate(9,372,145)">scalable</text>
+    <text x="128" y="312" text-anchor="middle" font-family="Georgia,serif" font-size="22" fill="#cc0000" transform="rotate(11,128,312)">HoloLens</text>
+    <text x="376" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#cc0000" transform="rotate(-9,376,318)">rehabilitation</text>
+    <text x="250" y="382" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#cc0000" font-weight="bold" transform="rotate(4,250,382)">transfer</text>
+    <text x="250" y="262" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#dd4444" font-style="italic">training</text>
   </g>
   <text font-family="Arial,sans-serif" font-size="10" fill="#cccccc" letter-spacing="3">
-    <textPath href="#arc">BMES 2018  ·  HOLOLENS  ·  VICON MOTION CAPTURE  ·  MIXED REALITY  ·  AMPUTEE  ·  STROKE  ·  OBSTACLE TRAINING  ·</textPath>
+    <textPath href="#arc">BMES 2018  ·  HOLOLENS  ·  VICON  ·  MIXED REALITY  ·  OBSTACLE AVOIDANCE  ·  AMPUTEE  ·  STROKE  ·  REHAB  ·</textPath>
   </text>
 </svg>
