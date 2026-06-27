@@ -31,7 +31,7 @@ image: https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/gait2.gif?r
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/assets/motivation_eyetracking2.svg" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="/assets/motivation_eyetracking2.png" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">

@@ -30,7 +30,7 @@ image: https://github.com/zoelzw/zoelzw/blob/master/assets/SolarPack.png?raw=tru
   <div class="col-md-6">
     <br>
     <!-- <div class="img-fluid rounded mt-2 mb-2 mb-md-0" style="background-image: url(https://github.com/zoelzw/zoelzw.github.io/blob/master/assets/Embodiment.png?raw=true);  height: 50vh; background-position:center;"> -->
-    <img src="/assets/motivation_solarpack.svg" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="/assets/motivation_solarpack.png" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   
   <div class="col-md-6">

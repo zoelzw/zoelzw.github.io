@@ -38,7 +38,7 @@ conf: UIST 2021
 
 <div class="row">
   <div class="col-md-6">
-    <img src="/assets/motivation_chemicalhaptics.svg" style='height: 100%; width: 100%; object-fit: contain'/>
+    <img src="/assets/motivation_chemicalhaptics.png" style='height: 100%; width: 100%; object-fit: contain'/>
   </div>
   <div class="col-md-6">
     <br>
